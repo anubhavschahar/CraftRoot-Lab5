@@ -1,0 +1,730 @@
+booking_id,booking_date,persona,user_id,source,destination_city,craft_interest,participants,price_per_person,status,gross_booking_value,artisan_payout,rating,repeat_customer,assigned_team
+CRB5000,2026-07-01,Ananya Reddy,u1001,Direct,Jaipur,Warli Painting,1,2500,Completed,2500,2000.0,4.5,No,Revenue / Enterprise Team
+CRB5001,2026-07-01,Mark Thompson,u1004,Referral,Varanasi,Warli Painting,2,2200,Completed,4400,3520.0,4.6,No,Revenue / Enterprise Team
+CRB5002,2026-07-01,Priya Sharma,u1008,Instagram,Bangalore,Pottery,4,3000,Completed,12000,9600.0,4.2,No,Traveler Success
+CRB5003,2026-07-01,Priya Sharma,u1013,Referral,Khurja,Pottery,2,1800,Completed,3600,2880.0,4.3,No,Customer Success
+CRB5004,2026-07-01,Rahul Mehta,u1017,Referral,Bangalore,Pottery,3,1800,Completed,5400,4320.0,4.9,Yes,Revenue / Enterprise Team
+CRB5005,2026-07-01,Priya Sharma,u1024,Referral,Udaipur,Warli Painting,1,2500,Completed,2500,2000.0,3.8,No,Traveler Success
+CRB5006,2026-07-01,Rahul Mehta,u1025,Instagram,Varanasi,Block Printing,2,3000,Cancelled,6000,0,,No,Traveler Success
+CRB5007,2026-07-01,Rahul Mehta,u1036,Direct,Udaipur,Pottery,1,3000,Completed,3000,2400.0,4.4,No,Traveler Success
+CRB5008,2026-07-01,Ananya Reddy,u1050,Instagram,Jaipur,Blue Pottery,2,3000,No-show,6000,0,,No,Revenue / Enterprise Team
+CRB5009,2026-07-01,Ananya Reddy,u1056,Google Search,Khurja,Pottery,6,3500,Cancelled,21000,0,,No,Traveler Success
+CRB5010,2026-07-01,Rahul Mehta,u1059,Google Search,Jaipur,Pottery,4,2000,Completed,8000,6400.0,5.0,No,Traveler Success
+CRB5011,2026-07-01,Rahul Mehta,u1075,Google Search,Udaipur,Blue Pottery,2,3500,Completed,7000,5600.0,4.9,No,Traveler Success
+CRB5012,2026-07-01,Ananya Reddy,u1080,Referral,Bangalore,Blue Pottery,4,1800,Completed,7200,5760.0,4.4,No,Traveler Success
+CRB5013,2026-07-01,Mark Thompson,u1089,Travel Blog,Bangalore,Warli Painting,12,1800,Completed,21600,17280.0,4.1,No,Customer Success
+CRB5014,2026-07-01,Mark Thompson,u1092,Instagram,Jaipur,Pottery,2,2200,Completed,4400,3520.0,4.1,No,Traveler Success
+CRB5015,2026-07-01,Ananya Reddy,u1093,Direct,Bangalore,Block Printing,1,2000,Completed,2000,1600.0,4.3,Yes,Revenue / Enterprise Team
+CRB5016,2026-07-01,Sofia Martinez,u1096,Referral,Jaipur,Warli Painting,12,1500,Completed,18000,14400.0,4.9,No,Customer Success
+CRB5017,2026-07-01,Sofia Martinez,u1103,Referral,Bangalore,Block Printing,10,2200,Completed,22000,17600.0,4.4,No,Traveler Success
+CRB5018,2026-07-01,Rahul Mehta,u1104,Instagram,Varanasi,Pottery,6,2200,Completed,13200,10560.0,5.0,No,Customer Success
+CRB5019,2026-07-01,Ananya Reddy,u1105,Travel Blog,Varanasi,Weaving,2,3000,Completed,6000,4800.0,4.0,No,Customer Success
+CRB5020,2026-07-01,Mark Thompson,u1106,Direct,Bangalore,Warli Painting,3,2000,Completed,6000,4800.0,4.4,Yes,Traveler Success
+CRB5021,2026-07-01,Ananya Reddy,u1116,Google Search,Varanasi,Block Printing,1,2200,Completed,2200,1760.0,4.1,No,Revenue / Enterprise Team
+CRB5022,2026-07-01,Rahul Mehta,u1118,Direct,Khurja,Blue Pottery,4,3500,Completed,14000,11200.0,4.8,No,Customer Success
+CRB5023,2026-07-01,Sofia Martinez,u1123,Referral,Bangalore,Block Printing,12,2000,Completed,24000,19200.0,4.6,Yes,Customer Success
+CRB5024,2026-07-01,Rahul Mehta,u1124,Referral,Udaipur,Weaving,10,3000,Completed,30000,24000.0,4.3,Yes,Customer Success
+CRB5025,2026-07-01,Sofia Martinez,u1130,Direct,Khurja,Pottery,3,3500,Cancelled,10500,0,,Yes,Revenue / Enterprise Team
+CRB5026,2026-07-01,Rahul Mehta,u1134,Travel Blog,Varanasi,Warli Painting,12,3500,Completed,42000,33600.0,4.2,No,Customer Success
+CRB5027,2026-07-01,Priya Sharma,u1142,Travel Blog,Bangalore,Block Printing,4,1800,Completed,7200,5760.0,3.9,No,Traveler Success
+CRB5028,2026-07-01,Ananya Reddy,u1143,Referral,Jaipur,Block Printing,10,1800,Completed,18000,14400.0,4.6,No,Traveler Success
+CRB5029,2026-07-01,Sofia Martinez,u1146,Instagram,Udaipur,Weaving,6,2500,Completed,15000,12000.0,4.6,No,Traveler Success
+CRB5030,2026-07-01,Sofia Martinez,u1151,Google Search,Bangalore,Weaving,2,3000,Completed,6000,4800.0,3.8,Yes,Revenue / Enterprise Team
+CRB5031,2026-07-01,Priya Sharma,u1165,Direct,Udaipur,Warli Painting,2,3500,Completed,7000,5600.0,4.9,No,Traveler Success
+CRB5032,2026-07-01,Sofia Martinez,u1166,Travel Blog,Udaipur,Pottery,6,1500,Completed,9000,7200.0,3.9,Yes,Revenue / Enterprise Team
+CRB5033,2026-07-01,Priya Sharma,u1170,Direct,Jaipur,Weaving,4,3500,Completed,14000,11200.0,3.8,No,Traveler Success
+CRB5034,2026-07-01,Sofia Martinez,u1173,Direct,Bangalore,Block Printing,4,2200,Completed,8800,7040.0,5.0,No,Revenue / Enterprise Team
+CRB5035,2026-07-01,Mark Thompson,u1174,Instagram,Udaipur,Blue Pottery,2,1800,Completed,3600,2880.0,4.5,No,Revenue / Enterprise Team
+CRB5036,2026-07-01,Rahul Mehta,u1179,Google Search,Udaipur,Block Printing,6,3500,Completed,21000,16800.0,4.9,No,Revenue / Enterprise Team
+CRB5037,2026-07-01,Rahul Mehta,u1187,Referral,Varanasi,Block Printing,2,1800,Completed,3600,2880.0,3.9,No,Customer Success
+CRB5038,2026-07-01,Rahul Mehta,u1189,Referral,Bangalore,Warli Painting,1,3000,Completed,3000,2400.0,4.3,No,Customer Success
+CRB5039,2026-07-01,Sofia Martinez,u1194,Google Search,Khurja,Blue Pottery,6,1500,Completed,9000,7200.0,4.3,Yes,Customer Success
+CRB5040,2026-07-01,Ananya Reddy,u1199,Referral,Khurja,Weaving,3,3500,Completed,10500,8400.0,4.8,No,Traveler Success
+CRB5041,2026-07-02,Mark Thompson,u1210,Referral,Jaipur,Warli Painting,12,2500,Completed,30000,24000.0,4.2,No,Customer Success
+CRB5042,2026-07-02,Rahul Mehta,u1215,Travel Blog,Khurja,Warli Painting,6,3500,Completed,21000,16800.0,4.9,Yes,Revenue / Enterprise Team
+CRB5043,2026-07-02,Rahul Mehta,u1226,Travel Blog,Khurja,Pottery,12,3500,Completed,42000,33600.0,4.7,Yes,Customer Success
+CRB5044,2026-07-02,Rahul Mehta,u1232,Travel Blog,Khurja,Blue Pottery,4,1800,Completed,7200,5760.0,4.7,No,Traveler Success
+CRB5045,2026-07-02,Priya Sharma,u1233,Referral,Khurja,Weaving,12,1500,Completed,18000,14400.0,4.5,No,Revenue / Enterprise Team
+CRB5046,2026-07-02,Ananya Reddy,u1237,Direct,Jaipur,Blue Pottery,6,2000,Completed,12000,9600.0,3.9,Yes,Revenue / Enterprise Team
+CRB5047,2026-07-02,Rahul Mehta,u1240,Instagram,Udaipur,Block Printing,1,2000,Cancelled,2000,0,,No,Revenue / Enterprise Team
+CRB5048,2026-07-02,Sofia Martinez,u1241,Travel Blog,Varanasi,Block Printing,1,3500,Completed,3500,2800.0,4.8,No,Revenue / Enterprise Team
+CRB5049,2026-07-02,Ananya Reddy,u1243,Travel Blog,Varanasi,Warli Painting,10,2500,No-show,25000,0,,No,Customer Success
+CRB5050,2026-07-02,Rahul Mehta,u1250,Referral,Varanasi,Blue Pottery,12,2000,Completed,24000,19200.0,4.5,No,Customer Success
+CRB5051,2026-07-02,Ananya Reddy,u1251,Referral,Varanasi,Pottery,10,2500,Completed,25000,20000.0,4.6,No,Revenue / Enterprise Team
+CRB5052,2026-07-02,Mark Thompson,u1252,Travel Blog,Khurja,Block Printing,12,1500,Completed,18000,14400.0,5.0,Yes,Revenue / Enterprise Team
+CRB5053,2026-07-02,Mark Thompson,u1260,Direct,Bangalore,Pottery,1,3500,Completed,3500,2800.0,4.0,No,Customer Success
+CRB5054,2026-07-02,Mark Thompson,u1268,Travel Blog,Khurja,Blue Pottery,12,2200,Completed,26400,21120.0,4.5,No,Revenue / Enterprise Team
+CRB5055,2026-07-02,Ananya Reddy,u1270,Instagram,Varanasi,Pottery,2,1500,Completed,3000,2400.0,4.5,No,Customer Success
+CRB5056,2026-07-02,Sofia Martinez,u1273,Instagram,Udaipur,Warli Painting,1,1500,Completed,1500,1200.0,4.8,No,Revenue / Enterprise Team
+CRB5057,2026-07-02,Mark Thompson,u1274,Instagram,Jaipur,Blue Pottery,10,2000,Completed,20000,16000.0,4.5,No,Traveler Success
+CRB5058,2026-07-02,Rahul Mehta,u1277,Referral,Bangalore,Weaving,1,1500,Completed,1500,1200.0,4.8,No,Traveler Success
+CRB5059,2026-07-02,Rahul Mehta,u1286,Google Search,Jaipur,Warli Painting,6,2200,Completed,13200,10560.0,4.3,No,Revenue / Enterprise Team
+CRB5060,2026-07-02,Sofia Martinez,u1290,Referral,Bangalore,Blue Pottery,3,2000,Completed,6000,4800.0,4.6,No,Customer Success
+CRB5061,2026-07-02,Priya Sharma,u1300,Referral,Varanasi,Block Printing,1,1800,Completed,1800,1440.0,4.9,No,Customer Success
+CRB5062,2026-07-02,Rahul Mehta,u1310,Referral,Varanasi,Warli Painting,3,1500,Completed,4500,3600.0,4.0,No,Revenue / Enterprise Team
+CRB5063,2026-07-02,Rahul Mehta,u1311,Instagram,Varanasi,Weaving,2,2200,Completed,4400,3520.0,4.3,No,Revenue / Enterprise Team
+CRB5064,2026-07-02,Priya Sharma,u1312,Google Search,Khurja,Warli Painting,6,1500,Cancelled,9000,0,,Yes,Revenue / Enterprise Team
+CRB5065,2026-07-02,Priya Sharma,u1317,Referral,Jaipur,Blue Pottery,2,1500,Completed,3000,2400.0,4.4,Yes,Customer Success
+CRB5066,2026-07-02,Sofia Martinez,u1318,Instagram,Varanasi,Blue Pottery,10,2000,No-show,20000,0,,No,Customer Success
+CRB5067,2026-07-02,Priya Sharma,u1322,Travel Blog,Bangalore,Blue Pottery,4,1800,Cancelled,7200,0,,Yes,Revenue / Enterprise Team
+CRB5068,2026-07-02,Priya Sharma,u1323,Travel Blog,Bangalore,Block Printing,12,2500,Completed,30000,24000.0,4.1,No,Customer Success
+CRB5069,2026-07-02,Priya Sharma,u1333,Direct,Udaipur,Blue Pottery,3,2000,Completed,6000,4800.0,4.8,No,Traveler Success
+CRB5070,2026-07-02,Sofia Martinez,u1343,Travel Blog,Varanasi,Pottery,3,2200,Completed,6600,5280.0,4.2,No,Customer Success
+CRB5071,2026-07-02,Sofia Martinez,u1352,Google Search,Jaipur,Block Printing,4,3500,Completed,14000,11200.0,3.9,No,Revenue / Enterprise Team
+CRB5072,2026-07-02,Mark Thompson,u1357,Google Search,Khurja,Warli Painting,4,2500,Completed,10000,8000.0,4.9,Yes,Traveler Success
+CRB5073,2026-07-02,Ananya Reddy,u1365,Travel Blog,Khurja,Warli Painting,3,3000,Completed,9000,7200.0,4.3,No,Customer Success
+CRB5074,2026-07-02,Rahul Mehta,u1367,Referral,Varanasi,Block Printing,10,1500,Completed,15000,12000.0,3.9,No,Customer Success
+CRB5075,2026-07-02,Ananya Reddy,u1370,Google Search,Varanasi,Weaving,4,2200,Completed,8800,7040.0,4.2,No,Revenue / Enterprise Team
+CRB5076,2026-07-02,Sofia Martinez,u1384,Direct,Bangalore,Block Printing,2,3000,Completed,6000,4800.0,4.6,No,Customer Success
+CRB5077,2026-07-02,Priya Sharma,u1386,Direct,Bangalore,Warli Painting,12,3500,Completed,42000,33600.0,4.0,No,Traveler Success
+CRB5078,2026-07-02,Sofia Martinez,u1392,Google Search,Khurja,Warli Painting,12,1800,Completed,21600,17280.0,4.0,No,Traveler Success
+CRB5079,2026-07-03,Sofia Martinez,u1399,Referral,Bangalore,Warli Painting,4,1500,Completed,6000,4800.0,4.4,No,Revenue / Enterprise Team
+CRB5080,2026-07-03,Ananya Reddy,u1401,Google Search,Bangalore,Pottery,12,2500,Completed,30000,24000.0,3.8,No,Customer Success
+CRB5081,2026-07-03,Rahul Mehta,u1405,Travel Blog,Bangalore,Blue Pottery,6,2500,Completed,15000,12000.0,4.7,No,Customer Success
+CRB5082,2026-07-03,Ananya Reddy,u1406,Instagram,Khurja,Weaving,2,2200,Completed,4400,3520.0,4.8,No,Revenue / Enterprise Team
+CRB5083,2026-07-03,Ananya Reddy,u1421,Travel Blog,Jaipur,Block Printing,10,1800,No-show,18000,0,,No,Traveler Success
+CRB5084,2026-07-03,Mark Thompson,u1424,Google Search,Udaipur,Block Printing,2,2500,Completed,5000,4000.0,3.8,Yes,Customer Success
+CRB5085,2026-07-03,Sofia Martinez,u1427,Google Search,Khurja,Block Printing,12,2000,Completed,24000,19200.0,4.0,No,Traveler Success
+CRB5086,2026-07-03,Priya Sharma,u1429,Travel Blog,Varanasi,Blue Pottery,2,1800,Completed,3600,2880.0,4.5,No,Traveler Success
+CRB5087,2026-07-03,Mark Thompson,u1431,Instagram,Khurja,Blue Pottery,2,2500,Completed,5000,4000.0,4.2,No,Customer Success
+CRB5088,2026-07-03,Priya Sharma,u1432,Direct,Udaipur,Weaving,2,1500,Completed,3000,2400.0,4.1,No,Revenue / Enterprise Team
+CRB5089,2026-07-03,Priya Sharma,u1434,Direct,Bangalore,Warli Painting,3,3500,Completed,10500,8400.0,4.5,No,Revenue / Enterprise Team
+CRB5090,2026-07-03,Priya Sharma,u1443,Google Search,Varanasi,Pottery,2,1800,Completed,3600,2880.0,4.8,No,Traveler Success
+CRB5091,2026-07-03,Sofia Martinez,u1446,Referral,Varanasi,Block Printing,1,1800,Completed,1800,1440.0,3.9,Yes,Customer Success
+CRB5092,2026-07-03,Rahul Mehta,u1453,Referral,Jaipur,Pottery,1,1800,Completed,1800,1440.0,4.9,No,Revenue / Enterprise Team
+CRB5093,2026-07-03,Mark Thompson,u1458,Google Search,Bangalore,Block Printing,10,1500,Completed,15000,12000.0,4.0,No,Customer Success
+CRB5094,2026-07-03,Sofia Martinez,u1461,Instagram,Khurja,Weaving,2,1500,No-show,3000,0,,No,Traveler Success
+CRB5095,2026-07-03,Rahul Mehta,u1468,Travel Blog,Jaipur,Blue Pottery,2,2000,Completed,4000,3200.0,3.8,No,Revenue / Enterprise Team
+CRB5096,2026-07-03,Sofia Martinez,u1473,Direct,Bangalore,Weaving,3,1500,Completed,4500,3600.0,3.9,No,Revenue / Enterprise Team
+CRB5097,2026-07-03,Ananya Reddy,u1474,Google Search,Khurja,Block Printing,1,3500,No-show,3500,0,,No,Customer Success
+CRB5098,2026-07-03,Ananya Reddy,u1478,Travel Blog,Bangalore,Weaving,3,1500,Completed,4500,3600.0,4.9,No,Customer Success
+CRB5099,2026-07-03,Sofia Martinez,u1489,Instagram,Varanasi,Blue Pottery,6,2000,Completed,12000,9600.0,3.9,No,Traveler Success
+CRB5100,2026-07-03,Priya Sharma,u1492,Referral,Jaipur,Weaving,10,1800,Completed,18000,14400.0,4.9,No,Revenue / Enterprise Team
+CRB5101,2026-07-03,Rahul Mehta,u1496,Referral,Varanasi,Weaving,12,1800,Completed,21600,17280.0,3.9,No,Traveler Success
+CRB5102,2026-07-03,Priya Sharma,u1500,Referral,Udaipur,Weaving,4,1800,Completed,7200,5760.0,4.0,Yes,Revenue / Enterprise Team
+CRB5103,2026-07-03,Ananya Reddy,u1506,Google Search,Khurja,Pottery,10,1800,No-show,18000,0,,No,Customer Success
+CRB5104,2026-07-03,Priya Sharma,u1508,Referral,Bangalore,Blue Pottery,10,1500,Completed,15000,12000.0,4.5,Yes,Revenue / Enterprise Team
+CRB5105,2026-07-03,Priya Sharma,u1516,Referral,Varanasi,Blue Pottery,10,3000,Completed,30000,24000.0,4.2,No,Traveler Success
+CRB5106,2026-07-03,Ananya Reddy,u1524,Google Search,Khurja,Pottery,1,3500,Completed,3500,2800.0,3.8,No,Revenue / Enterprise Team
+CRB5107,2026-07-03,Ananya Reddy,u1530,Instagram,Udaipur,Block Printing,4,2000,Completed,8000,6400.0,4.6,No,Revenue / Enterprise Team
+CRB5108,2026-07-03,Ananya Reddy,u1532,Google Search,Jaipur,Blue Pottery,10,3000,Completed,30000,24000.0,4.5,No,Revenue / Enterprise Team
+CRB5109,2026-07-03,Mark Thompson,u1536,Direct,Khurja,Weaving,4,2200,Completed,8800,7040.0,4.1,No,Traveler Success
+CRB5110,2026-07-03,Mark Thompson,u1541,Travel Blog,Khurja,Weaving,6,3000,No-show,18000,0,,Yes,Traveler Success
+CRB5111,2026-07-03,Priya Sharma,u1544,Travel Blog,Udaipur,Blue Pottery,6,1500,Completed,9000,7200.0,4.4,Yes,Revenue / Enterprise Team
+CRB5112,2026-07-03,Sofia Martinez,u1545,Google Search,Khurja,Weaving,4,1800,Completed,7200,5760.0,4.9,No,Customer Success
+CRB5113,2026-07-03,Priya Sharma,u1548,Google Search,Jaipur,Warli Painting,1,2200,Completed,2200,1760.0,4.4,Yes,Revenue / Enterprise Team
+CRB5114,2026-07-03,Priya Sharma,u1551,Google Search,Jaipur,Weaving,2,2200,Completed,4400,3520.0,4.7,No,Traveler Success
+CRB5115,2026-07-03,Mark Thompson,u1556,Instagram,Bangalore,Blue Pottery,2,2000,Completed,4000,3200.0,5.0,No,Traveler Success
+CRB5116,2026-07-03,Mark Thompson,u1559,Instagram,Jaipur,Pottery,12,2500,Completed,30000,24000.0,4.2,No,Traveler Success
+CRB5117,2026-07-03,Priya Sharma,u1574,Travel Blog,Jaipur,Blue Pottery,1,1500,Completed,1500,1200.0,4.5,No,Revenue / Enterprise Team
+CRB5118,2026-07-03,Rahul Mehta,u1582,Google Search,Varanasi,Block Printing,2,3500,Completed,7000,5600.0,4.5,No,Customer Success
+CRB5119,2026-07-03,Mark Thompson,u1594,Instagram,Bangalore,Block Printing,3,2000,Completed,6000,4800.0,4.1,No,Traveler Success
+CRB5120,2026-07-03,Mark Thompson,u1599,Referral,Bangalore,Block Printing,12,3500,Completed,42000,33600.0,4.7,No,Revenue / Enterprise Team
+CRB5121,2026-07-03,Sofia Martinez,u1601,Google Search,Khurja,Warli Painting,4,1800,Completed,7200,5760.0,3.8,No,Traveler Success
+CRB5122,2026-07-03,Ananya Reddy,u1604,Instagram,Varanasi,Warli Painting,2,2200,Completed,4400,3520.0,4.2,No,Customer Success
+CRB5123,2026-07-04,Sofia Martinez,u1612,Direct,Bangalore,Block Printing,3,3500,Completed,10500,8400.0,4.0,Yes,Revenue / Enterprise Team
+CRB5124,2026-07-04,Mark Thompson,u1613,Google Search,Jaipur,Blue Pottery,2,3500,Completed,7000,5600.0,4.8,No,Customer Success
+CRB5125,2026-07-04,Mark Thompson,u1618,Travel Blog,Udaipur,Blue Pottery,3,1800,Completed,5400,4320.0,4.8,No,Customer Success
+CRB5126,2026-07-04,Mark Thompson,u1619,Referral,Jaipur,Warli Painting,10,2500,Completed,25000,20000.0,4.1,No,Customer Success
+CRB5127,2026-07-04,Mark Thompson,u1622,Instagram,Bangalore,Blue Pottery,4,1500,Completed,6000,4800.0,4.9,No,Revenue / Enterprise Team
+CRB5128,2026-07-04,Priya Sharma,u1629,Direct,Jaipur,Pottery,2,2500,Completed,5000,4000.0,4.6,Yes,Revenue / Enterprise Team
+CRB5129,2026-07-04,Sofia Martinez,u1635,Direct,Khurja,Warli Painting,2,3000,Completed,6000,4800.0,3.8,No,Traveler Success
+CRB5130,2026-07-04,Sofia Martinez,u1639,Referral,Varanasi,Warli Painting,6,2500,Completed,15000,12000.0,4.4,No,Revenue / Enterprise Team
+CRB5131,2026-07-04,Mark Thompson,u1642,Google Search,Jaipur,Warli Painting,6,2500,Completed,15000,12000.0,4.1,Yes,Customer Success
+CRB5132,2026-07-04,Ananya Reddy,u1650,Direct,Khurja,Warli Painting,6,2200,Completed,13200,10560.0,4.3,Yes,Traveler Success
+CRB5133,2026-07-04,Priya Sharma,u1653,Instagram,Bangalore,Warli Painting,1,3500,Completed,3500,2800.0,4.3,No,Traveler Success
+CRB5134,2026-07-04,Mark Thompson,u1659,Google Search,Varanasi,Blue Pottery,4,2000,Completed,8000,6400.0,4.2,No,Traveler Success
+CRB5135,2026-07-04,Rahul Mehta,u1666,Instagram,Jaipur,Weaving,10,2200,Completed,22000,17600.0,4.7,Yes,Traveler Success
+CRB5136,2026-07-04,Sofia Martinez,u1669,Direct,Khurja,Warli Painting,1,1800,Completed,1800,1440.0,4.3,No,Revenue / Enterprise Team
+CRB5137,2026-07-04,Mark Thompson,u1670,Google Search,Bangalore,Block Printing,4,3000,Completed,12000,9600.0,4.2,No,Revenue / Enterprise Team
+CRB5138,2026-07-04,Rahul Mehta,u1671,Google Search,Udaipur,Blue Pottery,2,2500,Completed,5000,4000.0,4.9,No,Revenue / Enterprise Team
+CRB5139,2026-07-04,Ananya Reddy,u1676,Direct,Jaipur,Weaving,6,1500,Completed,9000,7200.0,4.2,No,Traveler Success
+CRB5140,2026-07-04,Priya Sharma,u1677,Google Search,Udaipur,Pottery,3,1800,Completed,5400,4320.0,4.2,Yes,Traveler Success
+CRB5141,2026-07-04,Mark Thompson,u1686,Direct,Varanasi,Pottery,6,2000,Completed,12000,9600.0,4.3,No,Customer Success
+CRB5142,2026-07-04,Sofia Martinez,u1700,Travel Blog,Jaipur,Block Printing,4,3000,Completed,12000,9600.0,4.1,No,Revenue / Enterprise Team
+CRB5143,2026-07-04,Ananya Reddy,u1701,Direct,Bangalore,Blue Pottery,3,3000,Completed,9000,7200.0,4.7,No,Customer Success
+CRB5144,2026-07-04,Mark Thompson,u1706,Google Search,Khurja,Warli Painting,6,3500,Completed,21000,16800.0,4.4,No,Traveler Success
+CRB5145,2026-07-04,Ananya Reddy,u1709,Referral,Udaipur,Warli Painting,10,2000,Completed,20000,16000.0,4.4,No,Customer Success
+CRB5146,2026-07-04,Ananya Reddy,u1721,Google Search,Jaipur,Pottery,12,2000,Completed,24000,19200.0,4.2,Yes,Customer Success
+CRB5147,2026-07-04,Mark Thompson,u1724,Travel Blog,Udaipur,Pottery,2,2500,Completed,5000,4000.0,4.3,No,Traveler Success
+CRB5148,2026-07-04,Rahul Mehta,u1730,Direct,Khurja,Weaving,6,3500,Completed,21000,16800.0,4.6,Yes,Traveler Success
+CRB5149,2026-07-04,Ananya Reddy,u1734,Referral,Bangalore,Blue Pottery,12,2000,Completed,24000,19200.0,4.8,Yes,Revenue / Enterprise Team
+CRB5150,2026-07-04,Rahul Mehta,u1736,Travel Blog,Jaipur,Warli Painting,6,3500,Completed,21000,16800.0,3.9,No,Traveler Success
+CRB5151,2026-07-04,Rahul Mehta,u1739,Instagram,Khurja,Pottery,2,1500,Completed,3000,2400.0,4.6,No,Traveler Success
+CRB5152,2026-07-04,Mark Thompson,u1741,Travel Blog,Jaipur,Blue Pottery,10,3500,Completed,35000,28000.0,4.8,Yes,Revenue / Enterprise Team
+CRB5153,2026-07-04,Sofia Martinez,u1743,Instagram,Jaipur,Pottery,3,2500,Completed,7500,6000.0,4.7,Yes,Revenue / Enterprise Team
+CRB5154,2026-07-04,Rahul Mehta,u1754,Google Search,Jaipur,Block Printing,3,1800,Completed,5400,4320.0,4.5,No,Revenue / Enterprise Team
+CRB5155,2026-07-04,Priya Sharma,u1758,Travel Blog,Udaipur,Block Printing,1,3000,Completed,3000,2400.0,4.2,No,Revenue / Enterprise Team
+CRB5156,2026-07-04,Sofia Martinez,u1759,Direct,Khurja,Weaving,10,2200,Completed,22000,17600.0,3.9,No,Customer Success
+CRB5157,2026-07-04,Priya Sharma,u1762,Travel Blog,Khurja,Pottery,3,2500,Completed,7500,6000.0,4.1,No,Customer Success
+CRB5158,2026-07-04,Ananya Reddy,u1770,Referral,Udaipur,Blue Pottery,3,2500,Completed,7500,6000.0,4.4,Yes,Customer Success
+CRB5159,2026-07-04,Mark Thompson,u1771,Direct,Bangalore,Block Printing,4,1500,Completed,6000,4800.0,3.9,No,Traveler Success
+CRB5160,2026-07-04,Ananya Reddy,u1782,Direct,Varanasi,Blue Pottery,3,3500,Completed,10500,8400.0,4.9,No,Traveler Success
+CRB5161,2026-07-04,Mark Thompson,u1784,Instagram,Khurja,Weaving,6,2200,No-show,13200,0,,No,Revenue / Enterprise Team
+CRB5162,2026-07-04,Sofia Martinez,u1789,Referral,Khurja,Blue Pottery,1,2200,Completed,2200,1760.0,4.1,No,Revenue / Enterprise Team
+CRB5163,2026-07-04,Ananya Reddy,u1809,Google Search,Khurja,Pottery,12,2000,Completed,24000,19200.0,4.0,Yes,Revenue / Enterprise Team
+CRB5164,2026-07-04,Priya Sharma,u1822,Referral,Varanasi,Warli Painting,1,1500,Completed,1500,1200.0,4.4,No,Revenue / Enterprise Team
+CRB5165,2026-07-04,Mark Thompson,u1824,Direct,Bangalore,Warli Painting,12,2200,Completed,26400,21120.0,4.1,No,Traveler Success
+CRB5166,2026-07-04,Mark Thompson,u1827,Google Search,Jaipur,Pottery,4,2500,Completed,10000,8000.0,3.9,No,Customer Success
+CRB5167,2026-07-04,Priya Sharma,u1834,Direct,Khurja,Warli Painting,4,3000,Completed,12000,9600.0,4.1,No,Traveler Success
+CRB5168,2026-07-04,Priya Sharma,u1844,Google Search,Varanasi,Pottery,12,3000,Completed,36000,28800.0,4.1,Yes,Traveler Success
+CRB5169,2026-07-04,Mark Thompson,u1845,Direct,Varanasi,Warli Painting,4,2500,Completed,10000,8000.0,4.5,No,Traveler Success
+CRB5170,2026-07-04,Sofia Martinez,u1846,Google Search,Jaipur,Blue Pottery,2,2200,Completed,4400,3520.0,4.9,No,Customer Success
+CRB5171,2026-07-05,Rahul Mehta,u1852,Referral,Varanasi,Blue Pottery,12,2200,Completed,26400,21120.0,4.2,No,Revenue / Enterprise Team
+CRB5172,2026-07-05,Rahul Mehta,u1857,Travel Blog,Bangalore,Weaving,2,3000,Cancelled,6000,0,,No,Traveler Success
+CRB5173,2026-07-05,Sofia Martinez,u1858,Direct,Bangalore,Blue Pottery,4,2200,Completed,8800,7040.0,4.8,No,Customer Success
+CRB5174,2026-07-05,Sofia Martinez,u1870,Google Search,Khurja,Block Printing,12,3000,Completed,36000,28800.0,3.9,No,Revenue / Enterprise Team
+CRB5175,2026-07-05,Rahul Mehta,u1872,Direct,Udaipur,Blue Pottery,12,3500,Completed,42000,33600.0,4.1,No,Traveler Success
+CRB5176,2026-07-05,Mark Thompson,u1873,Instagram,Bangalore,Blue Pottery,2,1800,Completed,3600,2880.0,4.8,No,Revenue / Enterprise Team
+CRB5177,2026-07-05,Mark Thompson,u1875,Instagram,Bangalore,Warli Painting,1,2200,Completed,2200,1760.0,4.5,No,Customer Success
+CRB5178,2026-07-05,Priya Sharma,u1879,Direct,Jaipur,Weaving,4,2000,Completed,8000,6400.0,4.8,Yes,Revenue / Enterprise Team
+CRB5179,2026-07-05,Mark Thompson,u1883,Google Search,Udaipur,Blue Pottery,2,1800,Completed,3600,2880.0,3.9,Yes,Traveler Success
+CRB5180,2026-07-05,Rahul Mehta,u1889,Travel Blog,Bangalore,Weaving,10,2200,Completed,22000,17600.0,4.7,No,Revenue / Enterprise Team
+CRB5181,2026-07-05,Priya Sharma,u1891,Instagram,Jaipur,Blue Pottery,3,3000,Completed,9000,7200.0,3.8,Yes,Revenue / Enterprise Team
+CRB5182,2026-07-05,Sofia Martinez,u1893,Google Search,Udaipur,Warli Painting,2,2000,Completed,4000,3200.0,3.9,No,Customer Success
+CRB5183,2026-07-05,Mark Thompson,u1894,Referral,Varanasi,Pottery,10,2000,No-show,20000,0,,No,Traveler Success
+CRB5184,2026-07-05,Priya Sharma,u1895,Travel Blog,Jaipur,Blue Pottery,12,1500,Completed,18000,14400.0,4.1,No,Revenue / Enterprise Team
+CRB5185,2026-07-05,Sofia Martinez,u1897,Referral,Udaipur,Block Printing,1,3000,Completed,3000,2400.0,4.2,Yes,Revenue / Enterprise Team
+CRB5186,2026-07-05,Mark Thompson,u1903,Travel Blog,Varanasi,Pottery,3,2000,Completed,6000,4800.0,4.6,No,Traveler Success
+CRB5187,2026-07-05,Rahul Mehta,u1911,Direct,Jaipur,Pottery,1,2000,Completed,2000,1600.0,4.5,Yes,Traveler Success
+CRB5188,2026-07-05,Rahul Mehta,u1915,Google Search,Jaipur,Warli Painting,10,1800,Completed,18000,14400.0,4.3,Yes,Traveler Success
+CRB5189,2026-07-05,Mark Thompson,u1916,Instagram,Bangalore,Blue Pottery,1,1500,Completed,1500,1200.0,4.6,No,Revenue / Enterprise Team
+CRB5190,2026-07-05,Sofia Martinez,u1917,Travel Blog,Khurja,Pottery,3,1800,Completed,5400,4320.0,4.0,Yes,Revenue / Enterprise Team
+CRB5191,2026-07-05,Ananya Reddy,u1918,Referral,Varanasi,Blue Pottery,2,2500,Completed,5000,4000.0,4.4,No,Revenue / Enterprise Team
+CRB5192,2026-07-05,Ananya Reddy,u1921,Instagram,Varanasi,Weaving,12,1500,Completed,18000,14400.0,4.4,Yes,Customer Success
+CRB5193,2026-07-05,Priya Sharma,u1924,Referral,Khurja,Block Printing,3,2200,Completed,6600,5280.0,4.5,No,Traveler Success
+CRB5194,2026-07-05,Ananya Reddy,u1926,Travel Blog,Khurja,Weaving,1,2000,Completed,2000,1600.0,4.4,No,Traveler Success
+CRB5195,2026-07-05,Ananya Reddy,u1936,Instagram,Jaipur,Blue Pottery,1,2200,Completed,2200,1760.0,4.6,No,Revenue / Enterprise Team
+CRB5196,2026-07-05,Rahul Mehta,u1940,Instagram,Bangalore,Weaving,1,2000,Completed,2000,1600.0,4.6,No,Traveler Success
+CRB5197,2026-07-05,Priya Sharma,u1944,Travel Blog,Udaipur,Warli Painting,4,2200,Completed,8800,7040.0,4.9,No,Customer Success
+CRB5198,2026-07-05,Rahul Mehta,u1957,Direct,Khurja,Blue Pottery,1,3000,Completed,3000,2400.0,4.2,No,Revenue / Enterprise Team
+CRB5199,2026-07-05,Mark Thompson,u1964,Google Search,Udaipur,Weaving,3,3500,Cancelled,10500,0,,No,Traveler Success
+CRB5200,2026-07-05,Sofia Martinez,u1969,Referral,Varanasi,Blue Pottery,12,3000,No-show,36000,0,,No,Traveler Success
+CRB5201,2026-07-05,Ananya Reddy,u1972,Referral,Jaipur,Warli Painting,4,2200,Completed,8800,7040.0,4.5,No,Traveler Success
+CRB5202,2026-07-05,Mark Thompson,u1980,Instagram,Varanasi,Pottery,2,2000,Completed,4000,3200.0,4.3,Yes,Customer Success
+CRB5203,2026-07-05,Ananya Reddy,u1984,Instagram,Bangalore,Warli Painting,4,2000,Completed,8000,6400.0,4.9,Yes,Traveler Success
+CRB5204,2026-07-05,Sofia Martinez,u1987,Instagram,Udaipur,Blue Pottery,1,2200,Completed,2200,1760.0,4.0,No,Traveler Success
+CRB5205,2026-07-05,Ananya Reddy,u1989,Google Search,Khurja,Weaving,2,1500,Completed,3000,2400.0,4.3,Yes,Traveler Success
+CRB5206,2026-07-05,Rahul Mehta,u1992,Instagram,Bangalore,Pottery,1,1500,Completed,1500,1200.0,4.1,No,Customer Success
+CRB5207,2026-07-05,Sofia Martinez,u2000,Referral,Varanasi,Warli Painting,10,2000,Completed,20000,16000.0,4.6,No,Revenue / Enterprise Team
+CRB5208,2026-07-05,Rahul Mehta,u2005,Instagram,Khurja,Block Printing,10,1500,Completed,15000,12000.0,4.4,No,Revenue / Enterprise Team
+CRB5209,2026-07-05,Priya Sharma,u2014,Direct,Bangalore,Block Printing,2,2200,Completed,4400,3520.0,4.3,Yes,Traveler Success
+CRB5210,2026-07-05,Rahul Mehta,u2015,Direct,Varanasi,Pottery,12,3500,Completed,42000,33600.0,4.6,No,Customer Success
+CRB5211,2026-07-05,Priya Sharma,u2016,Direct,Khurja,Warli Painting,10,2500,Completed,25000,20000.0,4.1,Yes,Revenue / Enterprise Team
+CRB5212,2026-07-05,Priya Sharma,u2019,Referral,Udaipur,Weaving,4,2500,Completed,10000,8000.0,4.8,No,Traveler Success
+CRB5213,2026-07-05,Sofia Martinez,u2021,Travel Blog,Bangalore,Warli Painting,1,2000,Completed,2000,1600.0,4.5,Yes,Revenue / Enterprise Team
+CRB5214,2026-07-05,Sofia Martinez,u2038,Referral,Bangalore,Pottery,3,3500,Completed,10500,8400.0,4.5,No,Revenue / Enterprise Team
+CRB5215,2026-07-05,Priya Sharma,u2040,Referral,Bangalore,Pottery,1,1500,Completed,1500,1200.0,4.5,No,Customer Success
+CRB5216,2026-07-05,Ananya Reddy,u2043,Direct,Varanasi,Blue Pottery,6,2000,Completed,12000,9600.0,4.8,No,Traveler Success
+CRB5217,2026-07-05,Rahul Mehta,u2044,Google Search,Jaipur,Pottery,1,2200,Completed,2200,1760.0,3.9,No,Customer Success
+CRB5218,2026-07-05,Ananya Reddy,u2057,Google Search,Udaipur,Pottery,2,1500,Completed,3000,2400.0,5.0,No,Customer Success
+CRB5219,2026-07-05,Sofia Martinez,u2068,Google Search,Udaipur,Pottery,4,1800,Completed,7200,5760.0,4.2,Yes,Traveler Success
+CRB5220,2026-07-05,Rahul Mehta,u2070,Google Search,Udaipur,Blue Pottery,1,1500,Completed,1500,1200.0,4.9,Yes,Traveler Success
+CRB5221,2026-07-05,Rahul Mehta,u2072,Referral,Khurja,Warli Painting,12,2000,Completed,24000,19200.0,4.2,No,Traveler Success
+CRB5222,2026-07-05,Sofia Martinez,u2077,Travel Blog,Jaipur,Pottery,4,1800,Completed,7200,5760.0,5.0,Yes,Customer Success
+CRB5223,2026-07-05,Ananya Reddy,u2078,Referral,Bangalore,Blue Pottery,2,1500,Completed,3000,2400.0,4.1,No,Revenue / Enterprise Team
+CRB5224,2026-07-05,Rahul Mehta,u2091,Referral,Bangalore,Pottery,3,2200,Completed,6600,5280.0,4.1,No,Traveler Success
+CRB5225,2026-07-05,Sofia Martinez,u2101,Instagram,Jaipur,Blue Pottery,2,2200,Completed,4400,3520.0,4.5,No,Revenue / Enterprise Team
+CRB5226,2026-07-05,Rahul Mehta,u2103,Referral,Jaipur,Blue Pottery,2,3000,Completed,6000,4800.0,4.8,No,Customer Success
+CRB5227,2026-07-05,Priya Sharma,u2105,Travel Blog,Varanasi,Block Printing,1,3000,No-show,3000,0,,No,Customer Success
+CRB5228,2026-07-05,Sofia Martinez,u2114,Direct,Bangalore,Blue Pottery,6,2500,Completed,15000,12000.0,4.3,Yes,Customer Success
+CRB5229,2026-07-05,Mark Thompson,u2115,Direct,Varanasi,Blue Pottery,3,2200,Completed,6600,5280.0,4.1,No,Traveler Success
+CRB5230,2026-07-05,Priya Sharma,u2118,Instagram,Udaipur,Pottery,10,2200,Completed,22000,17600.0,3.9,No,Customer Success
+CRB5231,2026-07-05,Priya Sharma,u2122,Referral,Jaipur,Warli Painting,2,3000,Completed,6000,4800.0,4.8,Yes,Revenue / Enterprise Team
+CRB5232,2026-07-05,Rahul Mehta,u2123,Direct,Jaipur,Warli Painting,3,2000,Completed,6000,4800.0,4.3,No,Revenue / Enterprise Team
+CRB5233,2026-07-05,Rahul Mehta,u2126,Referral,Varanasi,Warli Painting,10,2000,Completed,20000,16000.0,4.7,No,Traveler Success
+CRB5234,2026-07-05,Rahul Mehta,u2133,Direct,Varanasi,Weaving,2,3000,Completed,6000,4800.0,4.9,No,Revenue / Enterprise Team
+CRB5235,2026-07-05,Rahul Mehta,u2134,Referral,Udaipur,Pottery,10,3000,Completed,30000,24000.0,4.4,No,Traveler Success
+CRB5236,2026-07-05,Rahul Mehta,u2141,Direct,Bangalore,Warli Painting,2,3000,Completed,6000,4800.0,3.9,No,Customer Success
+CRB5237,2026-07-05,Sofia Martinez,u2143,Instagram,Jaipur,Block Printing,2,2000,Completed,4000,3200.0,4.5,No,Revenue / Enterprise Team
+CRB5238,2026-07-05,Priya Sharma,u2146,Travel Blog,Khurja,Warli Painting,12,1500,Completed,18000,14400.0,4.2,No,Traveler Success
+CRB5239,2026-07-06,Rahul Mehta,u2147,Referral,Bangalore,Weaving,6,2000,Completed,12000,9600.0,4.0,No,Traveler Success
+CRB5240,2026-07-06,Priya Sharma,u2160,Google Search,Jaipur,Weaving,12,1500,Completed,18000,14400.0,4.3,No,Traveler Success
+CRB5241,2026-07-06,Ananya Reddy,u2163,Direct,Khurja,Weaving,4,2200,Completed,8800,7040.0,5.0,Yes,Revenue / Enterprise Team
+CRB5242,2026-07-06,Mark Thompson,u2165,Referral,Udaipur,Block Printing,3,2200,Completed,6600,5280.0,4.9,Yes,Customer Success
+CRB5243,2026-07-06,Rahul Mehta,u2166,Travel Blog,Bangalore,Blue Pottery,1,2000,Completed,2000,1600.0,3.9,No,Customer Success
+CRB5244,2026-07-06,Rahul Mehta,u2168,Google Search,Khurja,Weaving,10,2500,Completed,25000,20000.0,4.4,No,Revenue / Enterprise Team
+CRB5245,2026-07-06,Rahul Mehta,u2171,Google Search,Bangalore,Warli Painting,2,2000,Completed,4000,3200.0,4.8,No,Customer Success
+CRB5246,2026-07-06,Sofia Martinez,u2175,Instagram,Khurja,Block Printing,2,2200,Completed,4400,3520.0,4.4,Yes,Revenue / Enterprise Team
+CRB5247,2026-07-06,Priya Sharma,u2179,Instagram,Jaipur,Blue Pottery,1,3500,Completed,3500,2800.0,4.2,No,Revenue / Enterprise Team
+CRB5248,2026-07-06,Mark Thompson,u2180,Google Search,Khurja,Blue Pottery,3,1500,Completed,4500,3600.0,4.3,No,Traveler Success
+CRB5249,2026-07-06,Priya Sharma,u2182,Google Search,Jaipur,Warli Painting,3,2500,Completed,7500,6000.0,4.8,No,Revenue / Enterprise Team
+CRB5250,2026-07-06,Rahul Mehta,u2191,Referral,Varanasi,Pottery,1,3500,Completed,3500,2800.0,4.9,No,Traveler Success
+CRB5251,2026-07-06,Sofia Martinez,u2192,Travel Blog,Bangalore,Block Printing,6,3500,Completed,21000,16800.0,3.9,Yes,Customer Success
+CRB5252,2026-07-06,Rahul Mehta,u2193,Direct,Udaipur,Block Printing,10,2200,Completed,22000,17600.0,4.1,Yes,Customer Success
+CRB5253,2026-07-06,Mark Thompson,u2197,Google Search,Bangalore,Pottery,12,1800,Completed,21600,17280.0,3.9,No,Revenue / Enterprise Team
+CRB5254,2026-07-06,Ananya Reddy,u2200,Instagram,Bangalore,Warli Painting,1,2200,Completed,2200,1760.0,4.6,Yes,Customer Success
+CRB5255,2026-07-06,Priya Sharma,u2207,Instagram,Varanasi,Block Printing,4,2200,Completed,8800,7040.0,4.7,Yes,Traveler Success
+CRB5256,2026-07-06,Priya Sharma,u2208,Google Search,Varanasi,Pottery,3,1800,Completed,5400,4320.0,4.1,Yes,Revenue / Enterprise Team
+CRB5257,2026-07-06,Rahul Mehta,u2209,Google Search,Udaipur,Block Printing,6,3500,Completed,21000,16800.0,4.4,No,Revenue / Enterprise Team
+CRB5258,2026-07-06,Ananya Reddy,u2210,Instagram,Jaipur,Pottery,10,3000,Completed,30000,24000.0,5.0,Yes,Revenue / Enterprise Team
+CRB5259,2026-07-06,Sofia Martinez,u2211,Direct,Khurja,Warli Painting,4,3500,Completed,14000,11200.0,4.5,No,Revenue / Enterprise Team
+CRB5260,2026-07-06,Sofia Martinez,u2213,Direct,Varanasi,Blue Pottery,12,3000,No-show,36000,0,,No,Revenue / Enterprise Team
+CRB5261,2026-07-06,Rahul Mehta,u2220,Referral,Udaipur,Weaving,4,3000,Completed,12000,9600.0,4.2,Yes,Customer Success
+CRB5262,2026-07-06,Mark Thompson,u2221,Google Search,Jaipur,Block Printing,3,3000,Completed,9000,7200.0,4.8,No,Revenue / Enterprise Team
+CRB5263,2026-07-06,Sofia Martinez,u2222,Direct,Khurja,Warli Painting,6,3500,No-show,21000,0,,Yes,Customer Success
+CRB5264,2026-07-06,Sofia Martinez,u2238,Instagram,Udaipur,Block Printing,10,2200,Completed,22000,17600.0,4.4,Yes,Customer Success
+CRB5265,2026-07-06,Rahul Mehta,u2241,Google Search,Bangalore,Blue Pottery,2,3500,Completed,7000,5600.0,4.4,No,Customer Success
+CRB5266,2026-07-06,Ananya Reddy,u2245,Travel Blog,Udaipur,Blue Pottery,10,3000,Cancelled,30000,0,,No,Customer Success
+CRB5267,2026-07-06,Ananya Reddy,u2253,Google Search,Varanasi,Blue Pottery,3,3000,No-show,9000,0,,No,Customer Success
+CRB5268,2026-07-06,Ananya Reddy,u2254,Google Search,Khurja,Block Printing,10,1800,Completed,18000,14400.0,4.6,No,Customer Success
+CRB5269,2026-07-06,Ananya Reddy,u2259,Google Search,Khurja,Block Printing,3,3000,Completed,9000,7200.0,4.9,No,Traveler Success
+CRB5270,2026-07-06,Priya Sharma,u2263,Google Search,Jaipur,Blue Pottery,3,1500,Completed,4500,3600.0,4.5,Yes,Traveler Success
+CRB5271,2026-07-06,Ananya Reddy,u2265,Direct,Bangalore,Pottery,10,3000,Cancelled,30000,0,,No,Traveler Success
+CRB5272,2026-07-06,Sofia Martinez,u2274,Instagram,Khurja,Weaving,3,3500,Completed,10500,8400.0,4.5,No,Traveler Success
+CRB5273,2026-07-06,Ananya Reddy,u2275,Travel Blog,Jaipur,Block Printing,2,1800,Completed,3600,2880.0,4.5,No,Revenue / Enterprise Team
+CRB5274,2026-07-06,Mark Thompson,u2284,Direct,Bangalore,Blue Pottery,2,1800,Completed,3600,2880.0,4.7,No,Customer Success
+CRB5275,2026-07-06,Ananya Reddy,u2299,Referral,Jaipur,Pottery,10,2500,Completed,25000,20000.0,4.3,No,Traveler Success
+CRB5276,2026-07-06,Sofia Martinez,u2301,Travel Blog,Bangalore,Pottery,3,2000,No-show,6000,0,,No,Revenue / Enterprise Team
+CRB5277,2026-07-06,Priya Sharma,u2302,Direct,Jaipur,Pottery,2,2000,Completed,4000,3200.0,4.4,Yes,Traveler Success
+CRB5278,2026-07-06,Sofia Martinez,u2303,Referral,Jaipur,Warli Painting,1,2200,Completed,2200,1760.0,4.7,No,Customer Success
+CRB5279,2026-07-06,Mark Thompson,u2309,Travel Blog,Bangalore,Blue Pottery,6,1500,Completed,9000,7200.0,5.0,No,Traveler Success
+CRB5280,2026-07-06,Mark Thompson,u2315,Travel Blog,Jaipur,Blue Pottery,2,1500,Completed,3000,2400.0,4.0,No,Customer Success
+CRB5281,2026-07-06,Priya Sharma,u2319,Travel Blog,Bangalore,Blue Pottery,2,1500,Completed,3000,2400.0,4.9,No,Traveler Success
+CRB5282,2026-07-06,Mark Thompson,u2338,Google Search,Udaipur,Blue Pottery,6,2200,Completed,13200,10560.0,5.0,No,Traveler Success
+CRB5283,2026-07-06,Priya Sharma,u2342,Referral,Jaipur,Block Printing,3,1500,Completed,4500,3600.0,4.4,No,Customer Success
+CRB5284,2026-07-06,Rahul Mehta,u2343,Travel Blog,Udaipur,Weaving,2,2200,Completed,4400,3520.0,4.5,No,Traveler Success
+CRB5285,2026-07-06,Rahul Mehta,u2347,Instagram,Khurja,Warli Painting,1,1500,No-show,1500,0,,No,Customer Success
+CRB5286,2026-07-06,Mark Thompson,u2355,Referral,Udaipur,Pottery,10,3000,Completed,30000,24000.0,4.6,No,Revenue / Enterprise Team
+CRB5287,2026-07-07,Ananya Reddy,u2360,Referral,Varanasi,Pottery,10,1800,Completed,18000,14400.0,4.9,No,Revenue / Enterprise Team
+CRB5288,2026-07-07,Priya Sharma,u2371,Referral,Jaipur,Block Printing,1,1500,Completed,1500,1200.0,4.4,No,Revenue / Enterprise Team
+CRB5289,2026-07-07,Rahul Mehta,u2374,Instagram,Udaipur,Warli Painting,1,2500,Completed,2500,2000.0,4.9,No,Traveler Success
+CRB5290,2026-07-07,Rahul Mehta,u2378,Referral,Varanasi,Blue Pottery,10,1800,Cancelled,18000,0,,Yes,Customer Success
+CRB5291,2026-07-07,Sofia Martinez,u2382,Google Search,Jaipur,Warli Painting,12,1500,Completed,18000,14400.0,4.1,No,Customer Success
+CRB5292,2026-07-07,Mark Thompson,u2385,Referral,Khurja,Block Printing,6,1500,Completed,9000,7200.0,4.4,Yes,Customer Success
+CRB5293,2026-07-07,Sofia Martinez,u2399,Google Search,Khurja,Weaving,1,2000,Completed,2000,1600.0,4.9,No,Customer Success
+CRB5294,2026-07-07,Rahul Mehta,u2403,Referral,Varanasi,Block Printing,2,2000,Completed,4000,3200.0,4.7,No,Traveler Success
+CRB5295,2026-07-07,Ananya Reddy,u2406,Google Search,Khurja,Blue Pottery,6,2000,Completed,12000,9600.0,4.0,Yes,Traveler Success
+CRB5296,2026-07-07,Sofia Martinez,u2414,Travel Blog,Udaipur,Warli Painting,3,2500,Completed,7500,6000.0,4.7,No,Customer Success
+CRB5297,2026-07-07,Ananya Reddy,u2415,Google Search,Varanasi,Weaving,3,2000,Completed,6000,4800.0,4.9,No,Traveler Success
+CRB5298,2026-07-07,Sofia Martinez,u2421,Direct,Jaipur,Blue Pottery,3,3500,Completed,10500,8400.0,4.0,No,Customer Success
+CRB5299,2026-07-07,Ananya Reddy,u2424,Google Search,Bangalore,Blue Pottery,4,1800,Completed,7200,5760.0,4.6,Yes,Traveler Success
+CRB5300,2026-07-07,Rahul Mehta,u2429,Direct,Jaipur,Block Printing,6,3500,Completed,21000,16800.0,4.4,No,Traveler Success
+CRB5301,2026-07-07,Rahul Mehta,u2430,Referral,Varanasi,Blue Pottery,2,1500,Completed,3000,2400.0,4.2,No,Traveler Success
+CRB5302,2026-07-07,Sofia Martinez,u2436,Referral,Bangalore,Pottery,4,2500,Completed,10000,8000.0,3.9,No,Customer Success
+CRB5303,2026-07-07,Priya Sharma,u2437,Instagram,Jaipur,Pottery,12,3000,Completed,36000,28800.0,4.8,No,Revenue / Enterprise Team
+CRB5304,2026-07-07,Priya Sharma,u2448,Travel Blog,Khurja,Pottery,2,2200,Completed,4400,3520.0,4.3,Yes,Revenue / Enterprise Team
+CRB5305,2026-07-07,Rahul Mehta,u2450,Instagram,Khurja,Weaving,10,1800,Completed,18000,14400.0,4.0,No,Customer Success
+CRB5306,2026-07-07,Priya Sharma,u2454,Travel Blog,Udaipur,Warli Painting,4,3000,Completed,12000,9600.0,4.1,No,Traveler Success
+CRB5307,2026-07-07,Ananya Reddy,u2458,Travel Blog,Khurja,Weaving,6,1500,Completed,9000,7200.0,3.9,Yes,Customer Success
+CRB5308,2026-07-07,Sofia Martinez,u2459,Google Search,Bangalore,Pottery,1,2500,No-show,2500,0,,Yes,Traveler Success
+CRB5309,2026-07-07,Ananya Reddy,u2463,Direct,Jaipur,Warli Painting,10,2200,Completed,22000,17600.0,4.1,No,Traveler Success
+CRB5310,2026-07-07,Priya Sharma,u2483,Travel Blog,Udaipur,Pottery,12,1800,Completed,21600,17280.0,4.1,No,Customer Success
+CRB5311,2026-07-07,Rahul Mehta,u2487,Travel Blog,Varanasi,Weaving,10,1500,Completed,15000,12000.0,4.8,No,Revenue / Enterprise Team
+CRB5312,2026-07-07,Rahul Mehta,u2490,Travel Blog,Udaipur,Warli Painting,6,3000,Completed,18000,14400.0,4.5,No,Traveler Success
+CRB5313,2026-07-07,Priya Sharma,u2496,Travel Blog,Bangalore,Pottery,3,3000,Completed,9000,7200.0,4.8,No,Customer Success
+CRB5314,2026-07-07,Sofia Martinez,u2503,Instagram,Udaipur,Warli Painting,1,3000,Completed,3000,2400.0,4.1,No,Traveler Success
+CRB5315,2026-07-07,Sofia Martinez,u2510,Travel Blog,Khurja,Warli Painting,1,3500,Cancelled,3500,0,,No,Revenue / Enterprise Team
+CRB5316,2026-07-07,Ananya Reddy,u2512,Travel Blog,Khurja,Block Printing,10,3500,Completed,35000,28000.0,4.8,No,Traveler Success
+CRB5317,2026-07-07,Sofia Martinez,u2522,Google Search,Udaipur,Block Printing,2,1800,Completed,3600,2880.0,4.2,No,Traveler Success
+CRB5318,2026-07-07,Rahul Mehta,u2528,Google Search,Jaipur,Weaving,2,2000,Completed,4000,3200.0,3.9,No,Customer Success
+CRB5319,2026-07-07,Rahul Mehta,u2534,Direct,Jaipur,Warli Painting,2,2200,Completed,4400,3520.0,4.4,No,Customer Success
+CRB5320,2026-07-07,Mark Thompson,u2536,Travel Blog,Khurja,Weaving,2,3500,Completed,7000,5600.0,4.6,No,Customer Success
+CRB5321,2026-07-07,Mark Thompson,u2540,Travel Blog,Varanasi,Weaving,1,2000,Completed,2000,1600.0,4.0,No,Traveler Success
+CRB5322,2026-07-07,Mark Thompson,u2543,Travel Blog,Jaipur,Warli Painting,2,2200,Completed,4400,3520.0,4.7,No,Customer Success
+CRB5323,2026-07-07,Priya Sharma,u2556,Instagram,Varanasi,Warli Painting,3,3000,Completed,9000,7200.0,3.9,No,Customer Success
+CRB5324,2026-07-07,Sofia Martinez,u2557,Travel Blog,Khurja,Blue Pottery,6,3500,Cancelled,21000,0,,No,Revenue / Enterprise Team
+CRB5325,2026-07-07,Sofia Martinez,u2561,Direct,Jaipur,Pottery,1,2200,Completed,2200,1760.0,4.6,No,Customer Success
+CRB5326,2026-07-07,Priya Sharma,u2562,Instagram,Bangalore,Block Printing,10,2500,Completed,25000,20000.0,4.2,No,Revenue / Enterprise Team
+CRB5327,2026-07-07,Priya Sharma,u2563,Travel Blog,Khurja,Weaving,12,2500,Completed,30000,24000.0,4.6,No,Traveler Success
+CRB5328,2026-07-07,Ananya Reddy,u2564,Instagram,Jaipur,Warli Painting,3,2500,Completed,7500,6000.0,4.3,No,Customer Success
+CRB5329,2026-07-07,Mark Thompson,u2573,Direct,Varanasi,Pottery,2,1500,Completed,3000,2400.0,4.3,No,Revenue / Enterprise Team
+CRB5330,2026-07-08,Sofia Martinez,u2586,Direct,Khurja,Weaving,12,1500,Completed,18000,14400.0,3.9,No,Traveler Success
+CRB5331,2026-07-08,Sofia Martinez,u2589,Google Search,Khurja,Blue Pottery,12,2000,Completed,24000,19200.0,4.3,Yes,Customer Success
+CRB5332,2026-07-08,Sofia Martinez,u2591,Referral,Bangalore,Pottery,3,2000,Completed,6000,4800.0,4.9,No,Customer Success
+CRB5333,2026-07-08,Rahul Mehta,u2605,Travel Blog,Bangalore,Pottery,2,2500,Completed,5000,4000.0,4.4,No,Customer Success
+CRB5334,2026-07-08,Sofia Martinez,u2608,Direct,Jaipur,Blue Pottery,3,1800,Completed,5400,4320.0,4.0,No,Customer Success
+CRB5335,2026-07-08,Sofia Martinez,u2609,Instagram,Bangalore,Blue Pottery,2,2200,Completed,4400,3520.0,3.8,Yes,Revenue / Enterprise Team
+CRB5336,2026-07-08,Rahul Mehta,u2617,Travel Blog,Udaipur,Blue Pottery,4,1800,Completed,7200,5760.0,4.5,No,Traveler Success
+CRB5337,2026-07-08,Mark Thompson,u2628,Referral,Udaipur,Warli Painting,12,1800,Completed,21600,17280.0,4.4,No,Revenue / Enterprise Team
+CRB5338,2026-07-08,Priya Sharma,u2635,Direct,Bangalore,Weaving,2,2500,Completed,5000,4000.0,4.1,Yes,Customer Success
+CRB5339,2026-07-08,Ananya Reddy,u2646,Google Search,Udaipur,Blue Pottery,6,2000,Completed,12000,9600.0,3.9,Yes,Revenue / Enterprise Team
+CRB5340,2026-07-08,Mark Thompson,u2648,Direct,Bangalore,Block Printing,1,1500,Completed,1500,1200.0,4.1,No,Revenue / Enterprise Team
+CRB5341,2026-07-08,Ananya Reddy,u2654,Travel Blog,Bangalore,Blue Pottery,3,2000,Completed,6000,4800.0,4.2,Yes,Traveler Success
+CRB5342,2026-07-08,Mark Thompson,u2658,Instagram,Udaipur,Blue Pottery,10,2500,Completed,25000,20000.0,4.4,Yes,Revenue / Enterprise Team
+CRB5343,2026-07-08,Priya Sharma,u2659,Referral,Varanasi,Warli Painting,10,3500,Completed,35000,28000.0,4.7,Yes,Revenue / Enterprise Team
+CRB5344,2026-07-08,Priya Sharma,u2666,Referral,Varanasi,Pottery,1,2000,Completed,2000,1600.0,4.1,Yes,Customer Success
+CRB5345,2026-07-08,Priya Sharma,u2668,Referral,Varanasi,Weaving,2,3500,Completed,7000,5600.0,3.9,No,Revenue / Enterprise Team
+CRB5346,2026-07-08,Mark Thompson,u2672,Instagram,Bangalore,Blue Pottery,6,3500,Completed,21000,16800.0,4.6,No,Traveler Success
+CRB5347,2026-07-08,Rahul Mehta,u2674,Referral,Udaipur,Weaving,2,2500,Completed,5000,4000.0,4.8,No,Traveler Success
+CRB5348,2026-07-08,Mark Thompson,u2681,Google Search,Udaipur,Weaving,10,2000,Completed,20000,16000.0,3.9,No,Revenue / Enterprise Team
+CRB5349,2026-07-08,Sofia Martinez,u2688,Direct,Udaipur,Block Printing,2,1500,Completed,3000,2400.0,4.9,No,Traveler Success
+CRB5350,2026-07-08,Ananya Reddy,u2696,Instagram,Khurja,Weaving,10,2000,Completed,20000,16000.0,4.0,Yes,Revenue / Enterprise Team
+CRB5351,2026-07-08,Rahul Mehta,u2698,Referral,Jaipur,Weaving,12,1800,Completed,21600,17280.0,4.9,Yes,Traveler Success
+CRB5352,2026-07-08,Rahul Mehta,u2705,Instagram,Khurja,Weaving,2,3000,Completed,6000,4800.0,4.2,No,Customer Success
+CRB5353,2026-07-08,Sofia Martinez,u2712,Instagram,Bangalore,Pottery,3,3000,Completed,9000,7200.0,4.1,No,Revenue / Enterprise Team
+CRB5354,2026-07-08,Rahul Mehta,u2713,Referral,Udaipur,Warli Painting,3,2000,Completed,6000,4800.0,4.6,No,Revenue / Enterprise Team
+CRB5355,2026-07-08,Mark Thompson,u2718,Travel Blog,Bangalore,Blue Pottery,3,3500,Completed,10500,8400.0,4.7,No,Customer Success
+CRB5356,2026-07-08,Priya Sharma,u2728,Referral,Udaipur,Pottery,1,3500,Cancelled,3500,0,,No,Customer Success
+CRB5357,2026-07-08,Mark Thompson,u2734,Google Search,Jaipur,Warli Painting,4,3500,Completed,14000,11200.0,3.8,No,Traveler Success
+CRB5358,2026-07-08,Rahul Mehta,u2743,Travel Blog,Bangalore,Warli Painting,10,2000,Completed,20000,16000.0,3.8,No,Traveler Success
+CRB5359,2026-07-08,Priya Sharma,u2746,Direct,Jaipur,Block Printing,1,1800,Completed,1800,1440.0,4.0,Yes,Customer Success
+CRB5360,2026-07-08,Mark Thompson,u2750,Google Search,Khurja,Weaving,6,2500,Completed,15000,12000.0,4.1,No,Traveler Success
+CRB5361,2026-07-08,Sofia Martinez,u2751,Direct,Udaipur,Block Printing,1,2000,Completed,2000,1600.0,3.9,No,Traveler Success
+CRB5362,2026-07-08,Sofia Martinez,u2752,Instagram,Bangalore,Blue Pottery,3,2000,Completed,6000,4800.0,4.1,No,Customer Success
+CRB5363,2026-07-08,Rahul Mehta,u2755,Referral,Khurja,Weaving,10,2000,Completed,20000,16000.0,4.5,No,Traveler Success
+CRB5364,2026-07-08,Mark Thompson,u2757,Google Search,Khurja,Pottery,1,1800,Completed,1800,1440.0,4.6,No,Revenue / Enterprise Team
+CRB5365,2026-07-08,Mark Thompson,u2766,Instagram,Khurja,Blue Pottery,6,1500,Cancelled,9000,0,,Yes,Revenue / Enterprise Team
+CRB5366,2026-07-08,Mark Thompson,u2772,Instagram,Jaipur,Blue Pottery,4,3500,Completed,14000,11200.0,3.8,No,Revenue / Enterprise Team
+CRB5367,2026-07-08,Mark Thompson,u2775,Referral,Jaipur,Pottery,10,1800,Completed,18000,14400.0,4.9,No,Revenue / Enterprise Team
+CRB5368,2026-07-08,Sofia Martinez,u2789,Referral,Jaipur,Warli Painting,1,1500,Completed,1500,1200.0,4.4,No,Customer Success
+CRB5369,2026-07-08,Ananya Reddy,u2800,Google Search,Khurja,Weaving,2,3500,Completed,7000,5600.0,4.4,No,Traveler Success
+CRB5370,2026-07-08,Sofia Martinez,u2803,Referral,Jaipur,Blue Pottery,10,3000,Completed,30000,24000.0,4.3,No,Traveler Success
+CRB5371,2026-07-08,Mark Thompson,u2805,Referral,Udaipur,Warli Painting,1,1800,Completed,1800,1440.0,4.1,No,Revenue / Enterprise Team
+CRB5372,2026-07-08,Sofia Martinez,u2807,Google Search,Khurja,Blue Pottery,6,2200,Completed,13200,10560.0,4.1,No,Traveler Success
+CRB5373,2026-07-08,Rahul Mehta,u2812,Travel Blog,Udaipur,Block Printing,12,2500,Completed,30000,24000.0,4.2,No,Traveler Success
+CRB5374,2026-07-08,Priya Sharma,u2820,Instagram,Udaipur,Weaving,1,2500,Completed,2500,2000.0,3.9,No,Revenue / Enterprise Team
+CRB5375,2026-07-08,Sofia Martinez,u2830,Referral,Khurja,Weaving,2,3000,Completed,6000,4800.0,4.0,No,Customer Success
+CRB5376,2026-07-08,Rahul Mehta,u2837,Google Search,Bangalore,Pottery,2,3000,Completed,6000,4800.0,3.9,No,Customer Success
+CRB5377,2026-07-08,Priya Sharma,u2838,Referral,Varanasi,Blue Pottery,2,2500,Completed,5000,4000.0,5.0,No,Revenue / Enterprise Team
+CRB5378,2026-07-08,Mark Thompson,u2839,Travel Blog,Khurja,Blue Pottery,2,1500,Completed,3000,2400.0,3.9,No,Traveler Success
+CRB5379,2026-07-08,Ananya Reddy,u2842,Referral,Bangalore,Warli Painting,12,2000,Completed,24000,19200.0,4.9,No,Customer Success
+CRB5380,2026-07-08,Rahul Mehta,u2845,Travel Blog,Khurja,Block Printing,2,2500,Completed,5000,4000.0,3.8,No,Traveler Success
+CRB5381,2026-07-08,Sofia Martinez,u2846,Direct,Udaipur,Block Printing,10,2500,Completed,25000,20000.0,4.9,No,Revenue / Enterprise Team
+CRB5382,2026-07-08,Ananya Reddy,u2848,Referral,Khurja,Weaving,12,1800,Completed,21600,17280.0,4.1,No,Revenue / Enterprise Team
+CRB5383,2026-07-08,Rahul Mehta,u2850,Google Search,Udaipur,Block Printing,12,3500,Completed,42000,33600.0,4.9,Yes,Revenue / Enterprise Team
+CRB5384,2026-07-08,Mark Thompson,u2856,Google Search,Khurja,Blue Pottery,2,2200,Completed,4400,3520.0,4.1,No,Customer Success
+CRB5385,2026-07-08,Rahul Mehta,u2862,Travel Blog,Varanasi,Pottery,1,2000,Completed,2000,1600.0,4.8,No,Customer Success
+CRB5386,2026-07-08,Ananya Reddy,u2872,Instagram,Jaipur,Blue Pottery,2,3000,Cancelled,6000,0,,No,Revenue / Enterprise Team
+CRB5387,2026-07-08,Rahul Mehta,u2873,Travel Blog,Khurja,Block Printing,3,3000,Completed,9000,7200.0,4.9,No,Traveler Success
+CRB5388,2026-07-08,Priya Sharma,u2876,Instagram,Khurja,Blue Pottery,3,2500,Completed,7500,6000.0,4.5,No,Revenue / Enterprise Team
+CRB5389,2026-07-09,Rahul Mehta,u2885,Google Search,Khurja,Block Printing,6,3500,Completed,21000,16800.0,4.2,No,Revenue / Enterprise Team
+CRB5390,2026-07-09,Rahul Mehta,u2894,Google Search,Varanasi,Weaving,10,2000,Completed,20000,16000.0,4.8,No,Customer Success
+CRB5391,2026-07-09,Sofia Martinez,u2898,Instagram,Jaipur,Block Printing,4,1500,Completed,6000,4800.0,3.9,No,Traveler Success
+CRB5392,2026-07-09,Priya Sharma,u2899,Direct,Varanasi,Warli Painting,4,2500,Completed,10000,8000.0,3.8,No,Customer Success
+CRB5393,2026-07-09,Mark Thompson,u2900,Travel Blog,Khurja,Pottery,3,3000,No-show,9000,0,,No,Revenue / Enterprise Team
+CRB5394,2026-07-09,Priya Sharma,u2903,Referral,Jaipur,Warli Painting,6,3500,Completed,21000,16800.0,4.2,Yes,Revenue / Enterprise Team
+CRB5395,2026-07-09,Mark Thompson,u2909,Referral,Jaipur,Warli Painting,10,1800,Completed,18000,14400.0,4.6,No,Revenue / Enterprise Team
+CRB5396,2026-07-09,Rahul Mehta,u2911,Direct,Khurja,Pottery,1,2500,Completed,2500,2000.0,4.7,No,Traveler Success
+CRB5397,2026-07-09,Ananya Reddy,u2912,Referral,Varanasi,Pottery,4,1800,Cancelled,7200,0,,No,Traveler Success
+CRB5398,2026-07-09,Mark Thompson,u2922,Travel Blog,Varanasi,Pottery,10,2200,Completed,22000,17600.0,4.7,Yes,Traveler Success
+CRB5399,2026-07-09,Priya Sharma,u2925,Referral,Varanasi,Warli Painting,2,3000,Completed,6000,4800.0,4.2,No,Traveler Success
+CRB5400,2026-07-09,Rahul Mehta,u2927,Referral,Bangalore,Weaving,12,1500,Completed,18000,14400.0,4.3,No,Revenue / Enterprise Team
+CRB5401,2026-07-09,Priya Sharma,u2929,Google Search,Jaipur,Blue Pottery,10,3500,Completed,35000,28000.0,4.8,No,Customer Success
+CRB5402,2026-07-09,Rahul Mehta,u2934,Direct,Jaipur,Pottery,6,3000,No-show,18000,0,,No,Traveler Success
+CRB5403,2026-07-09,Rahul Mehta,u2937,Instagram,Khurja,Block Printing,1,2500,Completed,2500,2000.0,4.0,No,Customer Success
+CRB5404,2026-07-09,Mark Thompson,u2942,Travel Blog,Jaipur,Warli Painting,2,1500,Completed,3000,2400.0,4.8,No,Customer Success
+CRB5405,2026-07-09,Rahul Mehta,u2944,Direct,Khurja,Pottery,6,2500,Completed,15000,12000.0,4.8,Yes,Revenue / Enterprise Team
+CRB5406,2026-07-09,Ananya Reddy,u2946,Google Search,Varanasi,Pottery,3,3500,Cancelled,10500,0,,No,Traveler Success
+CRB5407,2026-07-09,Sofia Martinez,u2955,Google Search,Khurja,Blue Pottery,2,2500,Completed,5000,4000.0,4.6,No,Revenue / Enterprise Team
+CRB5408,2026-07-09,Sofia Martinez,u2959,Direct,Khurja,Blue Pottery,6,1800,Completed,10800,8640.0,4.8,No,Traveler Success
+CRB5409,2026-07-09,Mark Thompson,u2961,Referral,Udaipur,Weaving,12,1800,Completed,21600,17280.0,4.3,Yes,Revenue / Enterprise Team
+CRB5410,2026-07-09,Ananya Reddy,u2973,Referral,Udaipur,Weaving,2,2000,Completed,4000,3200.0,4.8,No,Customer Success
+CRB5411,2026-07-09,Sofia Martinez,u2979,Travel Blog,Bangalore,Block Printing,10,3500,Completed,35000,28000.0,4.4,No,Customer Success
+CRB5412,2026-07-09,Ananya Reddy,u2984,Google Search,Jaipur,Weaving,12,2200,Completed,26400,21120.0,4.0,No,Revenue / Enterprise Team
+CRB5413,2026-07-09,Ananya Reddy,u2990,Google Search,Varanasi,Warli Painting,1,2200,Completed,2200,1760.0,4.3,Yes,Revenue / Enterprise Team
+CRB5414,2026-07-09,Sofia Martinez,u3002,Travel Blog,Udaipur,Blue Pottery,2,2000,Completed,4000,3200.0,4.9,Yes,Traveler Success
+CRB5415,2026-07-09,Rahul Mehta,u3005,Instagram,Bangalore,Block Printing,2,1500,No-show,3000,0,,Yes,Traveler Success
+CRB5416,2026-07-09,Ananya Reddy,u3007,Direct,Varanasi,Block Printing,2,2500,Completed,5000,4000.0,4.8,No,Revenue / Enterprise Team
+CRB5417,2026-07-09,Sofia Martinez,u3016,Travel Blog,Bangalore,Block Printing,10,3500,Completed,35000,28000.0,4.2,No,Customer Success
+CRB5418,2026-07-09,Rahul Mehta,u3025,Instagram,Khurja,Block Printing,6,1500,Completed,9000,7200.0,4.5,Yes,Traveler Success
+CRB5419,2026-07-09,Ananya Reddy,u3026,Travel Blog,Khurja,Block Printing,6,1800,No-show,10800,0,,No,Customer Success
+CRB5420,2026-07-09,Sofia Martinez,u3036,Google Search,Jaipur,Warli Painting,1,2200,Completed,2200,1760.0,3.8,No,Traveler Success
+CRB5421,2026-07-09,Sofia Martinez,u3039,Direct,Khurja,Pottery,2,2000,Completed,4000,3200.0,4.0,No,Revenue / Enterprise Team
+CRB5422,2026-07-09,Priya Sharma,u3042,Travel Blog,Jaipur,Blue Pottery,2,1800,Completed,3600,2880.0,3.9,No,Revenue / Enterprise Team
+CRB5423,2026-07-09,Priya Sharma,u3044,Referral,Varanasi,Block Printing,10,1500,Completed,15000,12000.0,4.7,No,Revenue / Enterprise Team
+CRB5424,2026-07-09,Sofia Martinez,u3055,Travel Blog,Khurja,Warli Painting,3,3500,Completed,10500,8400.0,4.2,No,Customer Success
+CRB5425,2026-07-09,Rahul Mehta,u3056,Referral,Khurja,Blue Pottery,4,3500,No-show,14000,0,,No,Traveler Success
+CRB5426,2026-07-09,Priya Sharma,u3057,Google Search,Khurja,Weaving,10,1800,Cancelled,18000,0,,No,Customer Success
+CRB5427,2026-07-09,Mark Thompson,u3059,Google Search,Udaipur,Warli Painting,12,1800,Completed,21600,17280.0,4.9,Yes,Revenue / Enterprise Team
+CRB5428,2026-07-09,Sofia Martinez,u3062,Google Search,Khurja,Pottery,6,2500,Cancelled,15000,0,,No,Customer Success
+CRB5429,2026-07-09,Priya Sharma,u3066,Referral,Khurja,Block Printing,1,1800,Completed,1800,1440.0,4.4,No,Customer Success
+CRB5430,2026-07-09,Mark Thompson,u3067,Direct,Bangalore,Pottery,6,2000,No-show,12000,0,,Yes,Traveler Success
+CRB5431,2026-07-09,Sofia Martinez,u3073,Instagram,Udaipur,Weaving,4,2000,Completed,8000,6400.0,3.8,Yes,Customer Success
+CRB5432,2026-07-09,Mark Thompson,u3075,Instagram,Bangalore,Block Printing,10,1500,Completed,15000,12000.0,4.3,No,Customer Success
+CRB5433,2026-07-09,Ananya Reddy,u3078,Instagram,Varanasi,Warli Painting,2,1800,Completed,3600,2880.0,4.0,Yes,Traveler Success
+CRB5434,2026-07-09,Rahul Mehta,u3082,Instagram,Khurja,Block Printing,3,1800,Completed,5400,4320.0,4.2,No,Customer Success
+CRB5435,2026-07-09,Priya Sharma,u3084,Direct,Jaipur,Blue Pottery,3,2000,Completed,6000,4800.0,5.0,Yes,Traveler Success
+CRB5436,2026-07-09,Priya Sharma,u3088,Direct,Jaipur,Weaving,12,2000,Cancelled,24000,0,,No,Traveler Success
+CRB5437,2026-07-09,Ananya Reddy,u3098,Google Search,Khurja,Warli Painting,12,1800,Completed,21600,17280.0,4.4,No,Revenue / Enterprise Team
+CRB5438,2026-07-09,Sofia Martinez,u3107,Instagram,Udaipur,Weaving,3,3500,Cancelled,10500,0,,No,Revenue / Enterprise Team
+CRB5439,2026-07-09,Sofia Martinez,u3110,Google Search,Udaipur,Warli Painting,2,2200,Completed,4400,3520.0,3.9,No,Revenue / Enterprise Team
+CRB5440,2026-07-09,Mark Thompson,u3112,Google Search,Varanasi,Block Printing,6,3500,Completed,21000,16800.0,4.7,No,Customer Success
+CRB5441,2026-07-09,Priya Sharma,u3119,Referral,Jaipur,Weaving,4,1800,Completed,7200,5760.0,3.8,No,Revenue / Enterprise Team
+CRB5442,2026-07-09,Mark Thompson,u3124,Google Search,Udaipur,Block Printing,2,3000,Completed,6000,4800.0,5.0,Yes,Customer Success
+CRB5443,2026-07-09,Sofia Martinez,u3125,Referral,Jaipur,Blue Pottery,10,3000,Completed,30000,24000.0,4.8,No,Traveler Success
+CRB5444,2026-07-09,Ananya Reddy,u3139,Google Search,Bangalore,Weaving,4,1800,Completed,7200,5760.0,4.1,No,Traveler Success
+CRB5445,2026-07-09,Sofia Martinez,u3142,Google Search,Jaipur,Warli Painting,1,3500,Completed,3500,2800.0,3.8,No,Revenue / Enterprise Team
+CRB5446,2026-07-10,Priya Sharma,u3143,Instagram,Jaipur,Weaving,6,1500,Completed,9000,7200.0,4.2,Yes,Customer Success
+CRB5447,2026-07-10,Priya Sharma,u3150,Travel Blog,Khurja,Block Printing,4,3000,Completed,12000,9600.0,4.8,No,Traveler Success
+CRB5448,2026-07-10,Sofia Martinez,u3151,Google Search,Udaipur,Block Printing,10,2500,No-show,25000,0,,No,Revenue / Enterprise Team
+CRB5449,2026-07-10,Rahul Mehta,u3159,Travel Blog,Udaipur,Warli Painting,2,2500,Completed,5000,4000.0,4.7,No,Traveler Success
+CRB5450,2026-07-10,Priya Sharma,u3168,Google Search,Bangalore,Block Printing,4,1500,Completed,6000,4800.0,4.6,No,Customer Success
+CRB5451,2026-07-10,Sofia Martinez,u3169,Instagram,Udaipur,Weaving,6,2200,Completed,13200,10560.0,4.5,Yes,Revenue / Enterprise Team
+CRB5452,2026-07-10,Rahul Mehta,u3170,Travel Blog,Jaipur,Blue Pottery,10,3500,Completed,35000,28000.0,4.6,No,Revenue / Enterprise Team
+CRB5453,2026-07-10,Sofia Martinez,u3172,Instagram,Udaipur,Weaving,2,2200,Completed,4400,3520.0,4.5,Yes,Customer Success
+CRB5454,2026-07-10,Mark Thompson,u3176,Direct,Udaipur,Warli Painting,12,1800,Cancelled,21600,0,,No,Traveler Success
+CRB5455,2026-07-10,Mark Thompson,u3184,Direct,Jaipur,Blue Pottery,10,1500,Completed,15000,12000.0,4.9,No,Customer Success
+CRB5456,2026-07-10,Sofia Martinez,u3185,Direct,Khurja,Pottery,3,2200,Completed,6600,5280.0,4.5,Yes,Revenue / Enterprise Team
+CRB5457,2026-07-10,Rahul Mehta,u3186,Google Search,Bangalore,Blue Pottery,4,1800,Completed,7200,5760.0,4.2,Yes,Traveler Success
+CRB5458,2026-07-10,Priya Sharma,u3189,Google Search,Udaipur,Blue Pottery,2,1800,Completed,3600,2880.0,4.0,No,Revenue / Enterprise Team
+CRB5459,2026-07-10,Sofia Martinez,u3196,Instagram,Udaipur,Warli Painting,2,3500,Completed,7000,5600.0,4.3,No,Customer Success
+CRB5460,2026-07-10,Mark Thompson,u3201,Referral,Bangalore,Warli Painting,4,3500,Completed,14000,11200.0,4.2,No,Revenue / Enterprise Team
+CRB5461,2026-07-10,Ananya Reddy,u3205,Google Search,Varanasi,Warli Painting,2,1500,Completed,3000,2400.0,4.6,No,Traveler Success
+CRB5462,2026-07-10,Ananya Reddy,u3207,Direct,Udaipur,Warli Painting,2,2200,Completed,4400,3520.0,3.8,No,Customer Success
+CRB5463,2026-07-10,Rahul Mehta,u3215,Referral,Varanasi,Blue Pottery,4,2500,Completed,10000,8000.0,3.8,No,Traveler Success
+CRB5464,2026-07-10,Ananya Reddy,u3216,Google Search,Udaipur,Pottery,4,3500,Completed,14000,11200.0,4.8,No,Customer Success
+CRB5465,2026-07-10,Ananya Reddy,u3217,Direct,Khurja,Pottery,4,2200,Completed,8800,7040.0,4.3,No,Traveler Success
+CRB5466,2026-07-10,Rahul Mehta,u3223,Direct,Udaipur,Pottery,10,2000,Completed,20000,16000.0,4.1,No,Traveler Success
+CRB5467,2026-07-10,Mark Thompson,u3225,Travel Blog,Bangalore,Weaving,12,2200,Completed,26400,21120.0,4.1,No,Customer Success
+CRB5468,2026-07-10,Priya Sharma,u3234,Google Search,Khurja,Block Printing,2,3500,Completed,7000,5600.0,4.0,No,Revenue / Enterprise Team
+CRB5469,2026-07-10,Ananya Reddy,u3236,Referral,Khurja,Weaving,1,2200,Completed,2200,1760.0,4.0,No,Revenue / Enterprise Team
+CRB5470,2026-07-10,Ananya Reddy,u3245,Referral,Varanasi,Block Printing,10,3500,Completed,35000,28000.0,4.8,No,Customer Success
+CRB5471,2026-07-10,Priya Sharma,u3253,Direct,Khurja,Block Printing,4,1500,Completed,6000,4800.0,4.4,No,Customer Success
+CRB5472,2026-07-10,Rahul Mehta,u3260,Instagram,Jaipur,Weaving,3,2200,Completed,6600,5280.0,4.3,No,Traveler Success
+CRB5473,2026-07-10,Sofia Martinez,u3261,Instagram,Jaipur,Pottery,2,1800,Completed,3600,2880.0,4.9,Yes,Traveler Success
+CRB5474,2026-07-10,Sofia Martinez,u3271,Direct,Varanasi,Weaving,2,3500,Completed,7000,5600.0,4.3,No,Customer Success
+CRB5475,2026-07-10,Mark Thompson,u3272,Travel Blog,Jaipur,Weaving,12,2200,Completed,26400,21120.0,4.8,No,Revenue / Enterprise Team
+CRB5476,2026-07-10,Rahul Mehta,u3276,Google Search,Jaipur,Block Printing,6,3000,Completed,18000,14400.0,4.2,Yes,Traveler Success
+CRB5477,2026-07-10,Mark Thompson,u3287,Instagram,Jaipur,Block Printing,12,1800,Completed,21600,17280.0,4.7,No,Revenue / Enterprise Team
+CRB5478,2026-07-10,Priya Sharma,u3289,Direct,Bangalore,Weaving,1,2000,Completed,2000,1600.0,3.9,No,Customer Success
+CRB5479,2026-07-10,Mark Thompson,u3294,Referral,Khurja,Block Printing,4,1800,Completed,7200,5760.0,4.7,No,Revenue / Enterprise Team
+CRB5480,2026-07-10,Sofia Martinez,u3304,Instagram,Khurja,Warli Painting,1,1800,No-show,1800,0,,No,Customer Success
+CRB5481,2026-07-10,Mark Thompson,u3310,Instagram,Udaipur,Block Printing,2,1800,Cancelled,3600,0,,No,Revenue / Enterprise Team
+CRB5482,2026-07-10,Mark Thompson,u3313,Direct,Bangalore,Block Printing,1,1800,Completed,1800,1440.0,4.7,No,Traveler Success
+CRB5483,2026-07-10,Mark Thompson,u3324,Referral,Varanasi,Pottery,6,1500,No-show,9000,0,,No,Customer Success
+CRB5484,2026-07-10,Priya Sharma,u3335,Instagram,Varanasi,Block Printing,2,1800,Completed,3600,2880.0,3.9,No,Customer Success
+CRB5485,2026-07-10,Sofia Martinez,u3339,Instagram,Varanasi,Weaving,1,1500,Completed,1500,1200.0,4.8,Yes,Customer Success
+CRB5486,2026-07-10,Priya Sharma,u3340,Google Search,Bangalore,Warli Painting,2,3000,Cancelled,6000,0,,Yes,Customer Success
+CRB5487,2026-07-10,Rahul Mehta,u3343,Referral,Bangalore,Pottery,10,1800,Completed,18000,14400.0,4.0,No,Revenue / Enterprise Team
+CRB5488,2026-07-10,Sofia Martinez,u3349,Instagram,Udaipur,Pottery,1,3000,Completed,3000,2400.0,4.6,Yes,Customer Success
+CRB5489,2026-07-11,Mark Thompson,u3368,Referral,Bangalore,Blue Pottery,2,3000,Completed,6000,4800.0,4.1,No,Revenue / Enterprise Team
+CRB5490,2026-07-11,Ananya Reddy,u3369,Travel Blog,Bangalore,Warli Painting,3,1800,Completed,5400,4320.0,4.2,No,Customer Success
+CRB5491,2026-07-11,Rahul Mehta,u3370,Google Search,Udaipur,Warli Painting,2,1800,Completed,3600,2880.0,4.4,Yes,Traveler Success
+CRB5492,2026-07-11,Mark Thompson,u3371,Direct,Udaipur,Pottery,1,2000,Completed,2000,1600.0,3.9,No,Traveler Success
+CRB5493,2026-07-11,Priya Sharma,u3372,Instagram,Varanasi,Pottery,3,1500,Completed,4500,3600.0,4.0,No,Traveler Success
+CRB5494,2026-07-11,Priya Sharma,u3375,Referral,Udaipur,Warli Painting,1,3000,Completed,3000,2400.0,4.0,No,Traveler Success
+CRB5495,2026-07-11,Mark Thompson,u3376,Google Search,Khurja,Pottery,2,1500,Completed,3000,2400.0,4.0,No,Traveler Success
+CRB5496,2026-07-11,Ananya Reddy,u3377,Instagram,Khurja,Blue Pottery,2,3000,Completed,6000,4800.0,3.9,No,Traveler Success
+CRB5497,2026-07-11,Rahul Mehta,u3381,Google Search,Bangalore,Warli Painting,2,2500,Completed,5000,4000.0,4.2,No,Revenue / Enterprise Team
+CRB5498,2026-07-11,Ananya Reddy,u3384,Instagram,Khurja,Warli Painting,2,1500,Completed,3000,2400.0,4.1,No,Traveler Success
+CRB5499,2026-07-11,Ananya Reddy,u3385,Direct,Bangalore,Warli Painting,6,2500,Completed,15000,12000.0,4.2,No,Traveler Success
+CRB5500,2026-07-11,Mark Thompson,u3387,Instagram,Bangalore,Pottery,2,3000,Completed,6000,4800.0,4.6,Yes,Traveler Success
+CRB5501,2026-07-11,Priya Sharma,u3391,Instagram,Udaipur,Warli Painting,1,3000,Completed,3000,2400.0,4.3,No,Customer Success
+CRB5502,2026-07-11,Ananya Reddy,u3392,Referral,Khurja,Block Printing,12,2000,Completed,24000,19200.0,3.9,No,Revenue / Enterprise Team
+CRB5503,2026-07-11,Ananya Reddy,u3393,Direct,Jaipur,Weaving,1,1500,Completed,1500,1200.0,4.1,No,Customer Success
+CRB5504,2026-07-11,Rahul Mehta,u3394,Referral,Jaipur,Weaving,10,2500,Completed,25000,20000.0,4.8,No,Customer Success
+CRB5505,2026-07-11,Ananya Reddy,u3395,Referral,Jaipur,Weaving,1,2500,Completed,2500,2000.0,3.9,No,Customer Success
+CRB5506,2026-07-11,Rahul Mehta,u3397,Instagram,Bangalore,Warli Painting,1,1500,Completed,1500,1200.0,4.4,Yes,Customer Success
+CRB5507,2026-07-11,Mark Thompson,u3400,Direct,Jaipur,Blue Pottery,10,2500,Completed,25000,20000.0,4.4,No,Customer Success
+CRB5508,2026-07-11,Priya Sharma,u3405,Referral,Jaipur,Pottery,6,2500,Completed,15000,12000.0,5.0,Yes,Customer Success
+CRB5509,2026-07-11,Priya Sharma,u3412,Google Search,Varanasi,Pottery,2,2200,Completed,4400,3520.0,4.8,Yes,Revenue / Enterprise Team
+CRB5510,2026-07-11,Ananya Reddy,u3414,Instagram,Bangalore,Block Printing,3,2200,Completed,6600,5280.0,4.2,Yes,Customer Success
+CRB5511,2026-07-11,Priya Sharma,u3417,Travel Blog,Bangalore,Warli Painting,1,3500,Completed,3500,2800.0,4.7,No,Revenue / Enterprise Team
+CRB5512,2026-07-11,Rahul Mehta,u3421,Direct,Varanasi,Pottery,2,3500,Completed,7000,5600.0,4.1,No,Traveler Success
+CRB5513,2026-07-11,Priya Sharma,u3424,Google Search,Khurja,Warli Painting,4,2000,Completed,8000,6400.0,4.1,No,Traveler Success
+CRB5514,2026-07-11,Sofia Martinez,u3425,Direct,Bangalore,Blue Pottery,1,3500,Completed,3500,2800.0,4.9,No,Revenue / Enterprise Team
+CRB5515,2026-07-11,Priya Sharma,u3430,Google Search,Jaipur,Pottery,1,3500,Completed,3500,2800.0,4.3,No,Revenue / Enterprise Team
+CRB5516,2026-07-11,Rahul Mehta,u3431,Travel Blog,Udaipur,Warli Painting,4,2000,Completed,8000,6400.0,4.1,Yes,Revenue / Enterprise Team
+CRB5517,2026-07-11,Priya Sharma,u3433,Direct,Bangalore,Pottery,2,1500,Completed,3000,2400.0,4.6,Yes,Revenue / Enterprise Team
+CRB5518,2026-07-11,Ananya Reddy,u3442,Google Search,Varanasi,Warli Painting,4,2500,Completed,10000,8000.0,4.0,No,Traveler Success
+CRB5519,2026-07-11,Sofia Martinez,u3464,Direct,Khurja,Block Printing,1,1500,Cancelled,1500,0,,Yes,Revenue / Enterprise Team
+CRB5520,2026-07-11,Ananya Reddy,u3465,Referral,Jaipur,Weaving,1,2200,Completed,2200,1760.0,4.6,No,Revenue / Enterprise Team
+CRB5521,2026-07-11,Priya Sharma,u3466,Travel Blog,Khurja,Block Printing,1,2200,Completed,2200,1760.0,4.3,No,Traveler Success
+CRB5522,2026-07-11,Mark Thompson,u3471,Direct,Varanasi,Block Printing,2,1800,No-show,3600,0,,No,Revenue / Enterprise Team
+CRB5523,2026-07-11,Sofia Martinez,u3474,Google Search,Jaipur,Block Printing,10,1800,Completed,18000,14400.0,4.2,No,Revenue / Enterprise Team
+CRB5524,2026-07-11,Rahul Mehta,u3475,Direct,Varanasi,Blue Pottery,4,2000,Completed,8000,6400.0,5.0,No,Traveler Success
+CRB5525,2026-07-11,Ananya Reddy,u3477,Instagram,Udaipur,Weaving,4,3500,Completed,14000,11200.0,3.9,No,Revenue / Enterprise Team
+CRB5526,2026-07-11,Sofia Martinez,u3479,Instagram,Udaipur,Warli Painting,4,2500,Cancelled,10000,0,,No,Revenue / Enterprise Team
+CRB5527,2026-07-11,Mark Thompson,u3492,Direct,Khurja,Block Printing,12,3500,Completed,42000,33600.0,4.5,No,Customer Success
+CRB5528,2026-07-11,Sofia Martinez,u3494,Instagram,Khurja,Pottery,1,2500,Completed,2500,2000.0,4.8,No,Revenue / Enterprise Team
+CRB5529,2026-07-11,Mark Thompson,u3505,Instagram,Bangalore,Weaving,3,2000,Completed,6000,4800.0,3.8,No,Customer Success
+CRB5530,2026-07-11,Mark Thompson,u3506,Direct,Varanasi,Blue Pottery,4,2500,Completed,10000,8000.0,4.8,No,Traveler Success
+CRB5531,2026-07-11,Rahul Mehta,u3507,Direct,Udaipur,Blue Pottery,4,1800,Completed,7200,5760.0,4.0,No,Customer Success
+CRB5532,2026-07-11,Sofia Martinez,u3509,Instagram,Varanasi,Blue Pottery,6,1800,Completed,10800,8640.0,5.0,No,Customer Success
+CRB5533,2026-07-11,Rahul Mehta,u3513,Instagram,Bangalore,Blue Pottery,4,2200,Cancelled,8800,0,,No,Traveler Success
+CRB5534,2026-07-11,Priya Sharma,u3520,Instagram,Varanasi,Weaving,3,3500,Completed,10500,8400.0,4.9,No,Customer Success
+CRB5535,2026-07-11,Rahul Mehta,u3524,Instagram,Bangalore,Warli Painting,2,3500,Completed,7000,5600.0,4.0,No,Customer Success
+CRB5536,2026-07-11,Rahul Mehta,u3528,Travel Blog,Varanasi,Weaving,6,3000,Completed,18000,14400.0,4.6,No,Customer Success
+CRB5537,2026-07-11,Mark Thompson,u3532,Google Search,Bangalore,Pottery,2,3500,Completed,7000,5600.0,4.1,No,Customer Success
+CRB5538,2026-07-11,Priya Sharma,u3541,Instagram,Khurja,Pottery,1,3000,Completed,3000,2400.0,4.3,Yes,Revenue / Enterprise Team
+CRB5539,2026-07-11,Priya Sharma,u3542,Google Search,Udaipur,Weaving,6,1500,Completed,9000,7200.0,4.3,No,Traveler Success
+CRB5540,2026-07-11,Sofia Martinez,u3544,Direct,Varanasi,Blue Pottery,1,2000,Completed,2000,1600.0,4.8,No,Revenue / Enterprise Team
+CRB5541,2026-07-11,Rahul Mehta,u3546,Google Search,Udaipur,Block Printing,3,1800,Completed,5400,4320.0,4.1,No,Traveler Success
+CRB5542,2026-07-11,Rahul Mehta,u3550,Direct,Bangalore,Pottery,3,3500,Completed,10500,8400.0,4.0,No,Customer Success
+CRB5543,2026-07-11,Rahul Mehta,u3555,Direct,Udaipur,Block Printing,1,2000,Completed,2000,1600.0,4.4,No,Revenue / Enterprise Team
+CRB5544,2026-07-11,Rahul Mehta,u3568,Google Search,Bangalore,Block Printing,6,3000,Completed,18000,14400.0,4.4,No,Traveler Success
+CRB5545,2026-07-11,Sofia Martinez,u3571,Instagram,Khurja,Blue Pottery,3,1800,Completed,5400,4320.0,4.6,No,Customer Success
+CRB5546,2026-07-11,Ananya Reddy,u3575,Referral,Bangalore,Blue Pottery,3,1500,Completed,4500,3600.0,4.3,Yes,Revenue / Enterprise Team
+CRB5547,2026-07-11,Rahul Mehta,u3577,Referral,Khurja,Block Printing,10,3000,Completed,30000,24000.0,4.8,No,Traveler Success
+CRB5548,2026-07-11,Rahul Mehta,u3581,Referral,Khurja,Warli Painting,12,1500,Completed,18000,14400.0,4.9,No,Revenue / Enterprise Team
+CRB5549,2026-07-11,Priya Sharma,u3584,Instagram,Udaipur,Block Printing,12,2000,Completed,24000,19200.0,3.9,No,Customer Success
+CRB5550,2026-07-11,Priya Sharma,u3585,Direct,Jaipur,Blue Pottery,2,2000,Completed,4000,3200.0,4.0,No,Revenue / Enterprise Team
+CRB5551,2026-07-11,Sofia Martinez,u3586,Referral,Jaipur,Pottery,10,2200,Completed,22000,17600.0,4.3,No,Revenue / Enterprise Team
+CRB5552,2026-07-11,Sofia Martinez,u3588,Referral,Varanasi,Weaving,12,3500,Completed,42000,33600.0,4.1,Yes,Traveler Success
+CRB5553,2026-07-11,Rahul Mehta,u3592,Instagram,Udaipur,Pottery,2,3500,Completed,7000,5600.0,3.9,Yes,Revenue / Enterprise Team
+CRB5554,2026-07-11,Priya Sharma,u3593,Instagram,Varanasi,Block Printing,12,1500,Completed,18000,14400.0,4.1,Yes,Customer Success
+CRB5555,2026-07-11,Mark Thompson,u3594,Referral,Bangalore,Weaving,2,3000,Completed,6000,4800.0,4.3,No,Customer Success
+CRB5556,2026-07-11,Ananya Reddy,u3595,Travel Blog,Udaipur,Warli Painting,1,2000,Completed,2000,1600.0,4.8,No,Traveler Success
+CRB5557,2026-07-11,Priya Sharma,u3600,Direct,Jaipur,Block Printing,12,1500,Cancelled,18000,0,,Yes,Revenue / Enterprise Team
+CRB5558,2026-07-11,Ananya Reddy,u3608,Instagram,Udaipur,Blue Pottery,1,2200,Completed,2200,1760.0,4.1,No,Customer Success
+CRB5559,2026-07-11,Rahul Mehta,u3613,Direct,Khurja,Block Printing,1,3000,Completed,3000,2400.0,3.9,Yes,Traveler Success
+CRB5560,2026-07-11,Mark Thompson,u3615,Direct,Udaipur,Pottery,1,3000,Completed,3000,2400.0,4.5,Yes,Traveler Success
+CRB5561,2026-07-11,Ananya Reddy,u3619,Direct,Khurja,Block Printing,12,2000,Completed,24000,19200.0,4.8,No,Revenue / Enterprise Team
+CRB5562,2026-07-11,Ananya Reddy,u3633,Referral,Khurja,Block Printing,10,1800,Completed,18000,14400.0,4.5,No,Customer Success
+CRB5563,2026-07-11,Rahul Mehta,u3636,Google Search,Bangalore,Block Printing,12,1800,No-show,21600,0,,No,Revenue / Enterprise Team
+CRB5564,2026-07-11,Mark Thompson,u3640,Google Search,Khurja,Blue Pottery,1,2000,Completed,2000,1600.0,4.9,Yes,Customer Success
+CRB5565,2026-07-11,Sofia Martinez,u3645,Travel Blog,Udaipur,Block Printing,1,2500,Completed,2500,2000.0,3.8,No,Revenue / Enterprise Team
+CRB5566,2026-07-11,Sofia Martinez,u3646,Google Search,Jaipur,Weaving,2,3500,Completed,7000,5600.0,4.0,No,Customer Success
+CRB5567,2026-07-11,Sofia Martinez,u3653,Instagram,Varanasi,Block Printing,1,1800,Completed,1800,1440.0,4.7,No,Customer Success
+CRB5568,2026-07-11,Ananya Reddy,u3656,Instagram,Udaipur,Blue Pottery,4,3500,Completed,14000,11200.0,4.5,Yes,Customer Success
+CRB5569,2026-07-11,Sofia Martinez,u3665,Google Search,Udaipur,Weaving,6,2500,Completed,15000,12000.0,3.9,No,Traveler Success
+CRB5570,2026-07-12,Mark Thompson,u3676,Google Search,Udaipur,Block Printing,3,2500,Completed,7500,6000.0,4.9,No,Customer Success
+CRB5571,2026-07-12,Mark Thompson,u3679,Referral,Varanasi,Warli Painting,3,2500,Completed,7500,6000.0,4.8,Yes,Traveler Success
+CRB5572,2026-07-12,Sofia Martinez,u3682,Instagram,Jaipur,Pottery,12,2000,Completed,24000,19200.0,4.7,Yes,Customer Success
+CRB5573,2026-07-12,Mark Thompson,u3687,Direct,Udaipur,Pottery,3,1500,Completed,4500,3600.0,5.0,No,Customer Success
+CRB5574,2026-07-12,Rahul Mehta,u3691,Instagram,Udaipur,Weaving,6,2000,Completed,12000,9600.0,4.4,No,Revenue / Enterprise Team
+CRB5575,2026-07-12,Sofia Martinez,u3699,Instagram,Varanasi,Blue Pottery,2,3500,Completed,7000,5600.0,4.7,No,Traveler Success
+CRB5576,2026-07-12,Priya Sharma,u3704,Direct,Jaipur,Warli Painting,1,3500,Completed,3500,2800.0,4.0,Yes,Traveler Success
+CRB5577,2026-07-12,Priya Sharma,u3711,Referral,Udaipur,Warli Painting,6,3500,Completed,21000,16800.0,3.8,No,Customer Success
+CRB5578,2026-07-12,Priya Sharma,u3712,Google Search,Jaipur,Weaving,10,2200,Completed,22000,17600.0,4.9,No,Customer Success
+CRB5579,2026-07-12,Ananya Reddy,u3713,Travel Blog,Udaipur,Weaving,6,2000,Completed,12000,9600.0,4.6,No,Traveler Success
+CRB5580,2026-07-12,Sofia Martinez,u3731,Instagram,Bangalore,Warli Painting,10,1800,Completed,18000,14400.0,4.0,No,Revenue / Enterprise Team
+CRB5581,2026-07-12,Rahul Mehta,u3733,Referral,Varanasi,Weaving,4,2000,Completed,8000,6400.0,4.2,No,Traveler Success
+CRB5582,2026-07-12,Sofia Martinez,u3735,Instagram,Bangalore,Block Printing,3,3000,Completed,9000,7200.0,4.9,No,Traveler Success
+CRB5583,2026-07-12,Ananya Reddy,u3741,Direct,Varanasi,Block Printing,1,1500,Completed,1500,1200.0,3.8,No,Traveler Success
+CRB5584,2026-07-12,Mark Thompson,u3744,Travel Blog,Jaipur,Warli Painting,10,2500,Completed,25000,20000.0,4.9,Yes,Revenue / Enterprise Team
+CRB5585,2026-07-12,Priya Sharma,u3766,Instagram,Bangalore,Block Printing,2,2200,Completed,4400,3520.0,3.9,No,Customer Success
+CRB5586,2026-07-12,Rahul Mehta,u3769,Google Search,Varanasi,Weaving,1,1500,Completed,1500,1200.0,4.9,No,Traveler Success
+CRB5587,2026-07-12,Rahul Mehta,u3771,Instagram,Jaipur,Weaving,2,2000,No-show,4000,0,,No,Customer Success
+CRB5588,2026-07-12,Ananya Reddy,u3791,Travel Blog,Khurja,Weaving,1,1500,Completed,1500,1200.0,4.2,No,Traveler Success
+CRB5589,2026-07-12,Ananya Reddy,u3792,Referral,Jaipur,Blue Pottery,2,3000,Cancelled,6000,0,,No,Traveler Success
+CRB5590,2026-07-12,Rahul Mehta,u3796,Direct,Bangalore,Blue Pottery,2,1500,Completed,3000,2400.0,4.8,Yes,Customer Success
+CRB5591,2026-07-12,Rahul Mehta,u3801,Travel Blog,Khurja,Block Printing,2,1500,Completed,3000,2400.0,4.9,No,Traveler Success
+CRB5592,2026-07-12,Mark Thompson,u3804,Google Search,Jaipur,Warli Painting,2,2500,Completed,5000,4000.0,3.8,Yes,Customer Success
+CRB5593,2026-07-12,Ananya Reddy,u3811,Google Search,Bangalore,Warli Painting,6,2000,Completed,12000,9600.0,5.0,No,Revenue / Enterprise Team
+CRB5594,2026-07-12,Rahul Mehta,u3814,Google Search,Khurja,Pottery,4,3000,Completed,12000,9600.0,4.7,Yes,Traveler Success
+CRB5595,2026-07-12,Ananya Reddy,u3815,Travel Blog,Varanasi,Warli Painting,2,3000,Completed,6000,4800.0,3.8,Yes,Customer Success
+CRB5596,2026-07-12,Priya Sharma,u3822,Direct,Bangalore,Pottery,2,2500,Completed,5000,4000.0,4.8,No,Customer Success
+CRB5597,2026-07-12,Priya Sharma,u3824,Direct,Khurja,Block Printing,4,1500,Completed,6000,4800.0,4.0,No,Traveler Success
+CRB5598,2026-07-12,Mark Thompson,u3834,Travel Blog,Khurja,Blue Pottery,2,2000,Completed,4000,3200.0,4.0,No,Customer Success
+CRB5599,2026-07-12,Sofia Martinez,u3837,Direct,Jaipur,Warli Painting,4,3500,Completed,14000,11200.0,4.5,No,Traveler Success
+CRB5600,2026-07-12,Mark Thompson,u3840,Referral,Bangalore,Pottery,1,3500,Completed,3500,2800.0,4.6,No,Customer Success
+CRB5601,2026-07-12,Rahul Mehta,u3846,Direct,Bangalore,Blue Pottery,4,1800,Completed,7200,5760.0,4.2,Yes,Revenue / Enterprise Team
+CRB5602,2026-07-12,Priya Sharma,u3855,Referral,Varanasi,Pottery,3,3000,Completed,9000,7200.0,5.0,Yes,Revenue / Enterprise Team
+CRB5603,2026-07-12,Priya Sharma,u3863,Google Search,Khurja,Blue Pottery,6,2200,Completed,13200,10560.0,3.9,Yes,Revenue / Enterprise Team
+CRB5604,2026-07-12,Mark Thompson,u3865,Referral,Varanasi,Warli Painting,2,2200,Completed,4400,3520.0,4.0,No,Customer Success
+CRB5605,2026-07-12,Priya Sharma,u3867,Google Search,Bangalore,Block Printing,2,2200,No-show,4400,0,,No,Traveler Success
+CRB5606,2026-07-12,Rahul Mehta,u3869,Direct,Udaipur,Pottery,12,3500,Completed,42000,33600.0,4.2,No,Revenue / Enterprise Team
+CRB5607,2026-07-12,Rahul Mehta,u3875,Instagram,Jaipur,Warli Painting,12,3500,No-show,42000,0,,No,Traveler Success
+CRB5608,2026-07-12,Rahul Mehta,u3876,Travel Blog,Jaipur,Block Printing,6,3000,Completed,18000,14400.0,4.5,No,Revenue / Enterprise Team
+CRB5609,2026-07-12,Priya Sharma,u3893,Referral,Udaipur,Block Printing,6,2000,Completed,12000,9600.0,4.0,No,Traveler Success
+CRB5610,2026-07-12,Ananya Reddy,u3896,Instagram,Bangalore,Blue Pottery,12,2000,Completed,24000,19200.0,4.8,Yes,Customer Success
+CRB5611,2026-07-12,Rahul Mehta,u3898,Travel Blog,Jaipur,Pottery,3,2500,Completed,7500,6000.0,4.9,No,Customer Success
+CRB5612,2026-07-12,Sofia Martinez,u3908,Direct,Varanasi,Pottery,2,2000,Completed,4000,3200.0,4.4,No,Customer Success
+CRB5613,2026-07-12,Priya Sharma,u3919,Referral,Khurja,Warli Painting,6,2500,Completed,15000,12000.0,4.2,No,Revenue / Enterprise Team
+CRB5614,2026-07-13,Ananya Reddy,u3924,Referral,Varanasi,Pottery,4,2500,Completed,10000,8000.0,4.5,No,Revenue / Enterprise Team
+CRB5615,2026-07-13,Priya Sharma,u3930,Direct,Varanasi,Block Printing,12,1800,Completed,21600,17280.0,4.8,No,Customer Success
+CRB5616,2026-07-13,Mark Thompson,u3934,Direct,Udaipur,Weaving,3,2500,Completed,7500,6000.0,4.9,Yes,Traveler Success
+CRB5617,2026-07-13,Priya Sharma,u3938,Instagram,Bangalore,Warli Painting,4,1800,Completed,7200,5760.0,4.3,Yes,Traveler Success
+CRB5618,2026-07-13,Sofia Martinez,u3942,Referral,Udaipur,Pottery,12,3000,Completed,36000,28800.0,4.6,Yes,Traveler Success
+CRB5619,2026-07-13,Ananya Reddy,u3950,Google Search,Bangalore,Pottery,2,1800,Completed,3600,2880.0,3.8,No,Customer Success
+CRB5620,2026-07-13,Rahul Mehta,u3956,Direct,Varanasi,Blue Pottery,2,1500,Completed,3000,2400.0,3.9,Yes,Traveler Success
+CRB5621,2026-07-13,Mark Thompson,u3957,Travel Blog,Khurja,Pottery,6,1500,Completed,9000,7200.0,4.3,No,Revenue / Enterprise Team
+CRB5622,2026-07-13,Rahul Mehta,u3958,Instagram,Udaipur,Blue Pottery,2,2000,Completed,4000,3200.0,4.4,No,Traveler Success
+CRB5623,2026-07-13,Rahul Mehta,u3963,Google Search,Udaipur,Warli Painting,2,1500,Completed,3000,2400.0,4.4,Yes,Traveler Success
+CRB5624,2026-07-13,Ananya Reddy,u3969,Instagram,Udaipur,Block Printing,10,3000,Completed,30000,24000.0,4.3,Yes,Customer Success
+CRB5625,2026-07-13,Ananya Reddy,u3970,Referral,Khurja,Pottery,4,2500,Completed,10000,8000.0,4.9,Yes,Revenue / Enterprise Team
+CRB5626,2026-07-13,Rahul Mehta,u3973,Direct,Bangalore,Warli Painting,2,1500,Completed,3000,2400.0,4.3,No,Traveler Success
+CRB5627,2026-07-13,Priya Sharma,u3978,Google Search,Khurja,Weaving,10,2000,Completed,20000,16000.0,4.5,No,Revenue / Enterprise Team
+CRB5628,2026-07-13,Ananya Reddy,u3985,Referral,Jaipur,Pottery,1,1500,Completed,1500,1200.0,4.8,Yes,Revenue / Enterprise Team
+CRB5629,2026-07-13,Priya Sharma,u3997,Google Search,Khurja,Block Printing,1,2000,Completed,2000,1600.0,4.1,No,Revenue / Enterprise Team
+CRB5630,2026-07-13,Priya Sharma,u4002,Google Search,Jaipur,Warli Painting,10,1500,Completed,15000,12000.0,4.6,Yes,Customer Success
+CRB5631,2026-07-13,Ananya Reddy,u4007,Direct,Khurja,Warli Painting,10,1800,Completed,18000,14400.0,4.9,No,Revenue / Enterprise Team
+CRB5632,2026-07-13,Ananya Reddy,u4011,Travel Blog,Khurja,Blue Pottery,2,1500,No-show,3000,0,,No,Revenue / Enterprise Team
+CRB5633,2026-07-13,Rahul Mehta,u4016,Instagram,Udaipur,Blue Pottery,6,3500,Completed,21000,16800.0,4.9,Yes,Revenue / Enterprise Team
+CRB5634,2026-07-13,Rahul Mehta,u4025,Google Search,Varanasi,Weaving,1,3500,Completed,3500,2800.0,4.0,Yes,Customer Success
+CRB5635,2026-07-13,Rahul Mehta,u4037,Google Search,Jaipur,Block Printing,10,2200,Completed,22000,17600.0,3.9,No,Customer Success
+CRB5636,2026-07-13,Ananya Reddy,u4039,Instagram,Bangalore,Warli Painting,1,2000,Completed,2000,1600.0,4.4,No,Customer Success
+CRB5637,2026-07-13,Sofia Martinez,u4045,Referral,Udaipur,Weaving,12,2500,Completed,30000,24000.0,4.2,Yes,Revenue / Enterprise Team
+CRB5638,2026-07-13,Mark Thompson,u4047,Instagram,Jaipur,Block Printing,2,1500,Completed,3000,2400.0,4.2,No,Revenue / Enterprise Team
+CRB5639,2026-07-13,Rahul Mehta,u4054,Google Search,Varanasi,Blue Pottery,10,2000,Completed,20000,16000.0,4.2,No,Revenue / Enterprise Team
+CRB5640,2026-07-13,Rahul Mehta,u4061,Travel Blog,Udaipur,Pottery,3,2500,Completed,7500,6000.0,4.6,No,Traveler Success
+CRB5641,2026-07-13,Rahul Mehta,u4073,Travel Blog,Jaipur,Block Printing,2,2200,Cancelled,4400,0,,No,Revenue / Enterprise Team
+CRB5642,2026-07-13,Mark Thompson,u4076,Direct,Udaipur,Pottery,12,3000,Completed,36000,28800.0,4.6,No,Customer Success
+CRB5643,2026-07-13,Rahul Mehta,u4078,Referral,Udaipur,Blue Pottery,2,3000,Completed,6000,4800.0,4.9,No,Revenue / Enterprise Team
+CRB5644,2026-07-13,Rahul Mehta,u4085,Travel Blog,Bangalore,Weaving,4,3000,Cancelled,12000,0,,No,Revenue / Enterprise Team
+CRB5645,2026-07-13,Rahul Mehta,u4091,Instagram,Khurja,Weaving,12,1500,Completed,18000,14400.0,4.7,No,Customer Success
+CRB5646,2026-07-13,Rahul Mehta,u4092,Referral,Jaipur,Weaving,2,2500,No-show,5000,0,,Yes,Traveler Success
+CRB5647,2026-07-13,Sofia Martinez,u4100,Instagram,Varanasi,Warli Painting,1,3500,Completed,3500,2800.0,4.0,Yes,Revenue / Enterprise Team
+CRB5648,2026-07-13,Priya Sharma,u4104,Instagram,Khurja,Blue Pottery,2,3500,Completed,7000,5600.0,4.1,No,Customer Success
+CRB5649,2026-07-13,Rahul Mehta,u4123,Google Search,Udaipur,Pottery,10,1800,Cancelled,18000,0,,Yes,Customer Success
+CRB5650,2026-07-13,Mark Thompson,u4129,Referral,Bangalore,Warli Painting,6,1500,Completed,9000,7200.0,4.8,No,Traveler Success
+CRB5651,2026-07-13,Priya Sharma,u4130,Travel Blog,Jaipur,Blue Pottery,10,3500,Completed,35000,28000.0,3.9,No,Customer Success
+CRB5652,2026-07-13,Priya Sharma,u4133,Travel Blog,Varanasi,Warli Painting,12,2200,Completed,26400,21120.0,4.1,Yes,Revenue / Enterprise Team
+CRB5653,2026-07-13,Mark Thompson,u4138,Referral,Udaipur,Blue Pottery,1,1500,Completed,1500,1200.0,4.5,Yes,Revenue / Enterprise Team
+CRB5654,2026-07-13,Mark Thompson,u4143,Referral,Bangalore,Blue Pottery,12,3500,Completed,42000,33600.0,4.1,No,Traveler Success
+CRB5655,2026-07-13,Ananya Reddy,u4146,Travel Blog,Khurja,Block Printing,2,1500,Cancelled,3000,0,,Yes,Traveler Success
+CRB5656,2026-07-13,Ananya Reddy,u4151,Google Search,Varanasi,Warli Painting,12,1500,Completed,18000,14400.0,4.6,No,Traveler Success
+CRB5657,2026-07-13,Sofia Martinez,u4155,Referral,Udaipur,Block Printing,2,2200,Completed,4400,3520.0,4.2,Yes,Traveler Success
+CRB5658,2026-07-13,Priya Sharma,u4161,Travel Blog,Khurja,Blue Pottery,6,2000,Completed,12000,9600.0,4.4,No,Revenue / Enterprise Team
+CRB5659,2026-07-13,Priya Sharma,u4167,Referral,Bangalore,Warli Painting,10,1800,Completed,18000,14400.0,3.9,No,Customer Success
+CRB5660,2026-07-13,Rahul Mehta,u4169,Direct,Jaipur,Warli Painting,2,1500,Completed,3000,2400.0,4.3,No,Customer Success
+CRB5661,2026-07-13,Sofia Martinez,u4173,Direct,Udaipur,Weaving,1,1800,Completed,1800,1440.0,4.7,No,Traveler Success
+CRB5662,2026-07-13,Rahul Mehta,u4180,Travel Blog,Bangalore,Pottery,12,3000,Completed,36000,28800.0,4.9,No,Revenue / Enterprise Team
+CRB5663,2026-07-13,Priya Sharma,u4185,Direct,Bangalore,Weaving,2,3000,Completed,6000,4800.0,3.9,Yes,Customer Success
+CRB5664,2026-07-14,Rahul Mehta,u4192,Travel Blog,Udaipur,Blue Pottery,2,2000,Completed,4000,3200.0,4.8,Yes,Revenue / Enterprise Team
+CRB5665,2026-07-14,Rahul Mehta,u4200,Google Search,Bangalore,Weaving,2,3000,Completed,6000,4800.0,4.2,Yes,Customer Success
+CRB5666,2026-07-14,Ananya Reddy,u4202,Google Search,Jaipur,Weaving,3,2500,Completed,7500,6000.0,3.9,No,Traveler Success
+CRB5667,2026-07-14,Sofia Martinez,u4203,Direct,Udaipur,Block Printing,4,2500,Completed,10000,8000.0,4.7,No,Traveler Success
+CRB5668,2026-07-14,Ananya Reddy,u4206,Google Search,Varanasi,Blue Pottery,6,1800,Completed,10800,8640.0,4.7,No,Customer Success
+CRB5669,2026-07-14,Ananya Reddy,u4208,Instagram,Udaipur,Blue Pottery,2,3000,Completed,6000,4800.0,4.6,No,Customer Success
+CRB5670,2026-07-14,Priya Sharma,u4213,Direct,Varanasi,Blue Pottery,1,3000,Completed,3000,2400.0,4.3,No,Revenue / Enterprise Team
+CRB5671,2026-07-14,Sofia Martinez,u4214,Direct,Udaipur,Weaving,4,3500,Completed,14000,11200.0,4.7,No,Traveler Success
+CRB5672,2026-07-14,Mark Thompson,u4219,Google Search,Bangalore,Warli Painting,10,1800,Completed,18000,14400.0,4.5,No,Revenue / Enterprise Team
+CRB5673,2026-07-14,Ananya Reddy,u4226,Direct,Udaipur,Block Printing,10,1500,No-show,15000,0,,No,Traveler Success
+CRB5674,2026-07-14,Sofia Martinez,u4233,Referral,Bangalore,Block Printing,4,3500,No-show,14000,0,,No,Customer Success
+CRB5675,2026-07-14,Priya Sharma,u4235,Google Search,Varanasi,Warli Painting,2,2500,Completed,5000,4000.0,4.3,No,Traveler Success
+CRB5676,2026-07-14,Mark Thompson,u4249,Referral,Jaipur,Blue Pottery,6,3000,Completed,18000,14400.0,4.0,Yes,Revenue / Enterprise Team
+CRB5677,2026-07-14,Priya Sharma,u4254,Referral,Bangalore,Weaving,2,3000,Completed,6000,4800.0,3.9,No,Traveler Success
+CRB5678,2026-07-14,Mark Thompson,u4255,Instagram,Khurja,Block Printing,6,3500,Completed,21000,16800.0,4.3,No,Revenue / Enterprise Team
+CRB5679,2026-07-14,Mark Thompson,u4256,Google Search,Khurja,Warli Painting,2,1500,Completed,3000,2400.0,4.9,No,Customer Success
+CRB5680,2026-07-14,Rahul Mehta,u4259,Referral,Jaipur,Pottery,12,2000,Completed,24000,19200.0,4.5,No,Revenue / Enterprise Team
+CRB5681,2026-07-14,Sofia Martinez,u4264,Instagram,Varanasi,Block Printing,12,1500,Completed,18000,14400.0,4.7,No,Customer Success
+CRB5682,2026-07-14,Ananya Reddy,u4271,Instagram,Udaipur,Blue Pottery,10,3000,Completed,30000,24000.0,3.9,No,Traveler Success
+CRB5683,2026-07-14,Priya Sharma,u4272,Direct,Udaipur,Blue Pottery,3,2500,Completed,7500,6000.0,4.4,No,Revenue / Enterprise Team
+CRB5684,2026-07-14,Priya Sharma,u4282,Google Search,Bangalore,Weaving,10,3000,Completed,30000,24000.0,4.0,No,Traveler Success
+CRB5685,2026-07-14,Sofia Martinez,u4283,Google Search,Udaipur,Block Printing,6,3000,Completed,18000,14400.0,3.9,Yes,Customer Success
+CRB5686,2026-07-14,Ananya Reddy,u4286,Direct,Bangalore,Pottery,10,2500,Completed,25000,20000.0,4.8,Yes,Traveler Success
+CRB5687,2026-07-14,Sofia Martinez,u4289,Instagram,Udaipur,Warli Painting,1,1800,Completed,1800,1440.0,4.9,Yes,Customer Success
+CRB5688,2026-07-14,Priya Sharma,u4290,Instagram,Jaipur,Weaving,12,1800,Completed,21600,17280.0,4.5,No,Traveler Success
+CRB5689,2026-07-14,Mark Thompson,u4291,Direct,Varanasi,Blue Pottery,3,2500,Completed,7500,6000.0,4.9,Yes,Traveler Success
+CRB5690,2026-07-14,Rahul Mehta,u4293,Instagram,Bangalore,Pottery,2,3500,Completed,7000,5600.0,3.9,Yes,Customer Success
+CRB5691,2026-07-14,Sofia Martinez,u4297,Google Search,Bangalore,Weaving,6,1500,Completed,9000,7200.0,4.8,No,Traveler Success
+CRB5692,2026-07-14,Ananya Reddy,u4301,Referral,Varanasi,Pottery,1,2500,Completed,2500,2000.0,4.2,No,Traveler Success
+CRB5693,2026-07-14,Priya Sharma,u4302,Google Search,Jaipur,Pottery,6,3000,Completed,18000,14400.0,5.0,No,Customer Success
+CRB5694,2026-07-14,Priya Sharma,u4306,Travel Blog,Khurja,Warli Painting,6,2500,Completed,15000,12000.0,4.6,No,Customer Success
+CRB5695,2026-07-14,Ananya Reddy,u4309,Direct,Khurja,Block Printing,3,1500,Completed,4500,3600.0,4.2,Yes,Traveler Success
+CRB5696,2026-07-14,Ananya Reddy,u4310,Travel Blog,Khurja,Warli Painting,3,2200,Completed,6600,5280.0,3.9,No,Customer Success
+CRB5697,2026-07-14,Priya Sharma,u4312,Travel Blog,Khurja,Blue Pottery,10,2000,Completed,20000,16000.0,4.0,No,Traveler Success
+CRB5698,2026-07-14,Priya Sharma,u4314,Direct,Varanasi,Weaving,2,1500,Completed,3000,2400.0,4.2,No,Traveler Success
+CRB5699,2026-07-14,Rahul Mehta,u4318,Google Search,Varanasi,Weaving,3,3000,Completed,9000,7200.0,4.6,Yes,Revenue / Enterprise Team
+CRB5700,2026-07-14,Mark Thompson,u4327,Travel Blog,Khurja,Blue Pottery,10,2200,Completed,22000,17600.0,4.0,No,Revenue / Enterprise Team
+CRB5701,2026-07-14,Sofia Martinez,u4333,Instagram,Khurja,Pottery,2,2500,Completed,5000,4000.0,4.6,No,Traveler Success
+CRB5702,2026-07-14,Priya Sharma,u4335,Referral,Jaipur,Warli Painting,4,3000,Completed,12000,9600.0,4.5,Yes,Revenue / Enterprise Team
+CRB5703,2026-07-14,Sofia Martinez,u4338,Instagram,Bangalore,Pottery,1,2500,Completed,2500,2000.0,3.8,No,Customer Success
+CRB5704,2026-07-14,Ananya Reddy,u4341,Referral,Jaipur,Block Printing,4,2200,Completed,8800,7040.0,4.6,Yes,Traveler Success
+CRB5705,2026-07-14,Sofia Martinez,u4345,Referral,Varanasi,Block Printing,12,3000,Completed,36000,28800.0,4.4,Yes,Customer Success
+CRB5706,2026-07-14,Ananya Reddy,u4348,Referral,Jaipur,Warli Painting,12,2500,Completed,30000,24000.0,4.2,Yes,Traveler Success
+CRB5707,2026-07-14,Ananya Reddy,u4349,Referral,Bangalore,Pottery,12,1800,Completed,21600,17280.0,4.7,No,Revenue / Enterprise Team
+CRB5708,2026-07-14,Ananya Reddy,u4350,Referral,Udaipur,Warli Painting,4,3500,Completed,14000,11200.0,4.3,No,Revenue / Enterprise Team
+CRB5709,2026-07-14,Mark Thompson,u4351,Direct,Jaipur,Weaving,4,1500,Completed,6000,4800.0,3.8,No,Revenue / Enterprise Team
+CRB5710,2026-07-14,Priya Sharma,u4352,Referral,Varanasi,Blue Pottery,4,1800,Completed,7200,5760.0,3.8,No,Customer Success
+CRB5711,2026-07-14,Rahul Mehta,u4353,Direct,Jaipur,Weaving,10,3000,Completed,30000,24000.0,4.4,No,Customer Success
+CRB5712,2026-07-14,Rahul Mehta,u4355,Direct,Udaipur,Weaving,12,1800,Completed,21600,17280.0,4.1,Yes,Customer Success
+CRB5713,2026-07-14,Mark Thompson,u4357,Direct,Bangalore,Block Printing,2,2500,Completed,5000,4000.0,4.4,Yes,Revenue / Enterprise Team
+CRB5714,2026-07-14,Rahul Mehta,u4363,Instagram,Bangalore,Pottery,12,2500,Completed,30000,24000.0,4.5,No,Revenue / Enterprise Team
+CRB5715,2026-07-14,Rahul Mehta,u4365,Direct,Jaipur,Blue Pottery,4,3000,Completed,12000,9600.0,4.6,No,Customer Success
+CRB5716,2026-07-14,Priya Sharma,u4367,Referral,Bangalore,Pottery,4,3000,Completed,12000,9600.0,4.6,No,Revenue / Enterprise Team
+CRB5717,2026-07-14,Priya Sharma,u4368,Travel Blog,Jaipur,Blue Pottery,2,2200,Completed,4400,3520.0,5.0,No,Traveler Success
+CRB5718,2026-07-14,Rahul Mehta,u4374,Referral,Khurja,Blue Pottery,3,1500,Completed,4500,3600.0,4.2,Yes,Traveler Success
+CRB5719,2026-07-14,Mark Thompson,u4377,Direct,Udaipur,Pottery,2,2000,Completed,4000,3200.0,4.7,No,Traveler Success
+CRB5720,2026-07-14,Ananya Reddy,u4378,Google Search,Jaipur,Blue Pottery,1,2200,Completed,2200,1760.0,4.1,Yes,Customer Success
+CRB5721,2026-07-14,Sofia Martinez,u4384,Google Search,Jaipur,Warli Painting,2,2200,Completed,4400,3520.0,4.0,No,Revenue / Enterprise Team
+CRB5722,2026-07-14,Priya Sharma,u4389,Instagram,Bangalore,Blue Pottery,10,1800,Completed,18000,14400.0,4.0,No,Revenue / Enterprise Team
+CRB5723,2026-07-14,Rahul Mehta,u4409,Google Search,Khurja,Block Printing,2,1800,No-show,3600,0,,No,Traveler Success
+CRB5724,2026-07-14,Rahul Mehta,u4417,Referral,Jaipur,Pottery,4,2500,Completed,10000,8000.0,4.0,No,Revenue / Enterprise Team
+CRB5725,2026-07-14,Ananya Reddy,u4422,Direct,Jaipur,Pottery,12,2000,Completed,24000,19200.0,4.5,Yes,Revenue / Enterprise Team
+CRB5726,2026-07-14,Rahul Mehta,u4430,Direct,Jaipur,Weaving,12,3000,Completed,36000,28800.0,3.8,No,Customer Success
+CRB5727,2026-07-14,Sofia Martinez,u4433,Referral,Udaipur,Weaving,2,3000,Completed,6000,4800.0,4.2,Yes,Traveler Success
+CRB5728,2026-07-14,Sofia Martinez,u4438,Direct,Udaipur,Pottery,2,3500,Completed,7000,5600.0,4.1,No,Revenue / Enterprise Team

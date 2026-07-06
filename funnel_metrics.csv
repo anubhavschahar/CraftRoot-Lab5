@@ -1,0 +1,7 @@
+Stage,Events,Count,Conversion from Previous,Drop-off,Product Question
+Awareness,page_view,3441,,,Are enough travelers landing on CraftRoots?
+Consideration,experience_card_viewed,1813,=C3/C2,=1-D3,Are visitors engaging with experiences?
+Decision,booking_started,1002,=C4/C3,=1-D4,Are users starting bookings?
+Payment,payment_success,729,=C5/C4,=1-D5,Is payment flow creating friction?
+Workshop,booking_completed,658,=C6/C5,=1-D6,Are paid sessions completed?
+Post-session,review_submitted,315,=C7/C6,=1-D7,Are customers sharing feedback?

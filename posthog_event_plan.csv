@@ -1,0 +1,11 @@
+Event Name,Trigger,Key Properties,Business Question,PostHog View,Metric Risk
+page_view,Landing page opens,"source, device, city",Which channels bring visitors?,Trends,High visits can hide low intent.
+experience_card_viewed,Visitor opens an experience card,"craft_interest, destination_city, artisan_id",Which crafts attract demand?,"Trends, Funnels",Views do not equal booking intent.
+search_performed,Visitor searches by city/craft,"query, destination_city",What are travelers trying to find?,Trends,Misspellings and broad queries can distort demand.
+filter_applied,Filter is applied,"filter_type, filter_value",Which filters matter for booking confidence?,Path analysis,"Filters may show confusion, not preference."
+booking_started,Calendar/group/payment flow opens,"craft_interest, group_size, price",Where does decision intent begin?,Funnels,Started booking is not paid booking.
+payment_success,Payment gateway returns success,"amount, method, booking_id",Is payment causing drop-off?,Funnels,Payment success can include later cancellations.
+booking_completed,Workshop marked completed,"artisan_id, city, craft, participants",What is true monthly active booking volume?,"Trends, Dashboard",Completed sessions are more reliable than paid bookings.
+review_submitted,Rating/review submitted,"rating, review_text, booking_id",What is the quality of the experience?,"Surveys, Trends",Only happy/unhappy extremes may review.
+referral_shared,Referral link shared,"channel, booking_id",Does the experience create advocacy?,Trends,Shares are not always successful referrals.
+artisan_availability_updated,Artisan updates calendar,"artisan_id, city",Are artisans actively managing inventory?,Trends,No update may mean full availability or digital friction.
