@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CraftRoots Product Insights Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav>
+      <div class="brand">CraftRoots Insights</div>
+      <a href="#events">Event Plan</a>
+      <a href="#guardrails">Guardrails</a>
+      <a href="CraftRoots_Lab5_Product_Insights_Dashboard.xlsx" download>Download Dashboard</a>
+    </nav>
+    <div class="hero-content">
+      <p class="eyebrow">Product analytics for artisan experience bookings</p>
+      <h1>Understand how travelers discover, book, complete, and share CraftRoots workshops.</h1>
+      <p class="subtext">A demo insights dashboard combining PostHog-style events, Looker-style metrics, and Dify-style AI summaries for product decisions.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="kpis">
+      <article class="card">
+        <span>Monthly Active Bookings</span>
+        <strong>658</strong>
+        <p>Completed sessions, not only paid bookings.</p>
+      </article>
+      <article class="card">
+        <span>Gross Booking Value</span>
+        <strong>₹7,524,300</strong>
+        <p>Total value from completed CraftRoots sessions.</p>
+      </article>
+      <article class="card">
+        <span>Avg Session Rating</span>
+        <strong>4.38★</strong>
+        <p>Quality signal after workshop completion.</p>
+      </article>
+      <article class="card">
+        <span>Visitor → Booking</span>
+        <strong>19.1%</strong>
+        <p>Full-funnel conversion from visit to completion.</p>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="section-title">
+        <p class="eyebrow">Funnel</p>
+        <h2>Traveler journey conversion</h2>
+      </div>
+      <div id="funnel" class="funnel"></div>
+    </section>
+
+    <section class="grid-two">
+      <div class="panel">
+        <div class="section-title">
+          <p class="eyebrow">Top demand</p>
+          <h2>City and craft signals</h2>
+        </div>
+        <div id="demandTable"></div>
+      </div>
+      <div class="panel">
+        <div class="section-title">
+          <p class="eyebrow">AI summary</p>
+          <h2>Dify-style product insight</h2>
+        </div>
+        <div class="ai-box">
+          <h3>Insight</h3>
+          <p>Jaipur and Bangalore show strong booking volume, while Blue Pottery and Warli Painting show high completion. Before changing pricing or marketing spend, compare by channel, craft, city, and no-show rate.</p>
+          <h3>Recommended action</h3>
+          <p>Run a segmented dashboard review: Instagram vs Google, Jaipur vs Khurja, and booking started vs payment success. Use human review before making product decisions.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="events" class="panel">
+      <div class="section-title">
+        <p class="eyebrow">PostHog tracking plan</p>
+        <h2>Core product events</h2>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Event</th><th>Trigger</th><th>Why it matters</th></tr>
+          </thead>
+          <tbody id="eventRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="guardrails" class="panel warning">
+      <div class="section-title">
+        <p class="eyebrow">Risk control</p>
+        <h2>Metric misinterpretation guardrails</h2>
+      </div>
+      <ul>
+        <li>Do not treat traffic growth as product success unless booking completion also improves.</li>
+        <li>Do not use payment success as the North Star because cancellations and no-shows can still happen.</li>
+        <li>Do not act on average rating without checking review submission rate and sample size.</li>
+        <li>Do not compare cities without considering seasonality, artisan supply, and craft type.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>CraftRoots Product Insights • PostHog + Looker + Dify prototype</p>
+  </footer>
+  <script src="dashboard.js"></script>
+</body>
+</html>
